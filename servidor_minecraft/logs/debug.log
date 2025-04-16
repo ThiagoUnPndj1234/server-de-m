@@ -5427,3 +5427,7 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Apr2025 10:59:08.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 left the game
 [16Apr2025 10:59:08.224] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of NeoSergio00
 [16Apr2025 10:59:08.224] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NeoSergio00
+[16Apr2025 11:03:40.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 11:03:40.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 11:08:40.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 11:08:40.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
