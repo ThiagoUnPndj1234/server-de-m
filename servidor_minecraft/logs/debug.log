@@ -5448,3 +5448,55 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Apr2025 14:43:58.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
 [16Apr2025 14:44:03.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
 [16Apr2025 14:44:24.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[16Apr2025 14:44:36.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[16Apr2025 14:44:42.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[16Apr2025 14:45:00.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[16Apr2025 14:45:12.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Spectator Mode]
+[16Apr2025 14:45:14.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[16Apr2025 14:45:19.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[16Apr2025 14:45:31.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[16Apr2025 14:45:35.358] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:pillagerboss at BlockPos{x=392, y=-12, z=843} at Barrel with:minecraft:chests/simple_dungeon
+[16Apr2025 14:45:45.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[16Apr2025 14:45:55.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[16Apr2025 14:46:04.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 14:46:04.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 14:46:11.346] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=278, y=-42, z=-77}
+[16Apr2025 14:46:11.411] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokersummoner at BlockPos{x=456, y=19, z=713} at Chest with:minecraft:chests/simple_dungeon
+[16Apr2025 14:46:12.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[16Apr2025 14:46:13.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis fell from a high place
+[16Apr2025 14:46:15.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[16Apr2025 14:46:17.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[16Apr2025 14:46:18.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[16Apr2025 14:46:20.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[16Apr2025 14:46:50.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Spectator Mode]
+[16Apr2025 14:46:55.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[16Apr2025 14:48:14.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[16Apr2025 14:48:20.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[16Apr2025 14:48:36.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[16Apr2025 14:48:36.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[16Apr2025 14:48:37.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[16Apr2025 14:48:51.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[16Apr2025 14:48:52.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[16Apr2025 14:48:53.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[16Apr2025 14:50:52.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has completed the challenge [Just a Flesh Wound]
+[16Apr2025 14:51:04.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 14:51:04.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 14:51:22.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Creative Mode]
+[16Apr2025 14:51:28.363] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=504, y=-37, z=955} at Barrel with:minecraft:chests/simple_dungeon
+[16Apr2025 14:51:30.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[16Apr2025 14:51:52.634] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (596 | 27 | 1124).
+[16Apr2025 14:51:52.636] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[16Apr2025 14:51:52.638] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 5(0) Rooms
+[16Apr2025 14:51:52.638] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[16Apr2025 14:51:52.638] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 5(0) Rooms
+[16Apr2025 14:51:52.638] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[16Apr2025 14:51:52.638] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 3(7) Nodes and 5(0) Rooms
+[16Apr2025 14:51:52.638] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[16Apr2025 14:51:52.639] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 9(0) Nodes and 5(0) Rooms
+[16Apr2025 14:51:52.639] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[16Apr2025 14:51:52.639] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 5(0) Rooms
+[16Apr2025 14:52:04.870] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-73, y=65, z=42}
+[16Apr2025 14:52:04.870] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-69, y=63, z=46}
+[16Apr2025 14:52:47.739] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=377, y=-3, z=1075} at Chest with:minecraft:chests/simple_dungeon
+[16Apr2025 14:53:07.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Suit Up]
+[16Apr2025 14:54:11.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported Rick_sis to NeoSergio00]
