@@ -1,5 +1,32 @@
 [
   {
+    "uuid": "88a19825-506e-3aed-9b25-41804e02dfa0",
+    "displayName": {
+      "insertion": "Rick_sis",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Rick_sis "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "88a19825-506e-3aed-9b25-41804e02dfa0",
+          "name": {
+            "text": "Rick_sis"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Rick_sis"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  },
+  {
     "uuid": "549dd063-7a5f-3694-8229-c1cd8a505909",
     "displayName": {
       "insertion": "NeoSergio00",

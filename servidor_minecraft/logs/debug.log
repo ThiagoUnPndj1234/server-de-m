@@ -6163,3 +6163,29 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Apr2025 13:57:02.669] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
 [16Apr2025 13:57:23.648] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=249, y=-17, z=-13} at Chest with:minecraft:chests/simple_dungeon
 [16Apr2025 13:57:26.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[16Apr2025 13:58:56.260] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=135, y=55, z=264} at Chest with:minecraft:chests/simple_dungeon
+[16Apr2025 13:59:56.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 13:59:56.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 14:00:06.434] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:guardianboss at BlockPos{x=310, y=54, z=124} at Chest with:minecraft:chests/underwater_ruin_small
+[16Apr2025 14:00:28.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Gave 16 [Raw Beef] to 2]
+[16Apr2025 14:00:48.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[16Apr2025 14:00:52.293] [Worker-Main-19/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=1, y=40, z=334} at Chest with:minecraft:chests/simple_dungeon
+[16Apr2025 14:01:17.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[16Apr2025 14:01:21.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [The Lighthouse]
+[16Apr2025 14:01:21.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [The Lighthouse]
+[16Apr2025 14:01:35.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Stone Age]
+[16Apr2025 14:01:45.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Spectator Mode]
+[16Apr2025 14:01:52.064] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[16Apr2025 14:01:59.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[16Apr2025 14:03:21.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Stone Age]
+[16Apr2025 14:03:48.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Getting an Upgrade]
+[16Apr2025 14:04:20.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Getting an Upgrade]
+[16Apr2025 14:04:56.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 14:04:56.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 14:04:58.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 was slain by Rick_sis
+[16Apr2025 14:05:07.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to NeoSergio00]
+[16Apr2025 14:05:12.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[16Apr2025 14:07:19.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Spectator Mode]
+[16Apr2025 14:07:35.858] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-197, y=-40, z=344} at Barrel with:minecraft:chests/simple_dungeon
+[16Apr2025 14:07:38.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[16Apr2025 14:07:50.662] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-243, y=-32, z=57} at Chest with:minecraft:chests/simple_dungeon

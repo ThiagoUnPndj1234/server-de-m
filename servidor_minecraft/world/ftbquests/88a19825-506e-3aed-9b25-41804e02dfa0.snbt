@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "88a19825506e3aed9b2541804e02dfa0"
+	name: "Rick_sis#88a19825"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -539,3 +539,19 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Apr2025 13:57:02.668] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Rick_sis (18)
 [16Apr2025 13:57:02.669] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
 [16Apr2025 13:57:26.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[16Apr2025 14:00:28.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Gave 16 [Raw Beef] to 2]
+[16Apr2025 14:00:48.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[16Apr2025 14:01:17.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[16Apr2025 14:01:21.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [The Lighthouse]
+[16Apr2025 14:01:21.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [The Lighthouse]
+[16Apr2025 14:01:35.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Stone Age]
+[16Apr2025 14:01:45.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Spectator Mode]
+[16Apr2025 14:01:59.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[16Apr2025 14:03:21.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Stone Age]
+[16Apr2025 14:03:48.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Getting an Upgrade]
+[16Apr2025 14:04:20.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Getting an Upgrade]
+[16Apr2025 14:04:58.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 was slain by Rick_sis
+[16Apr2025 14:05:07.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to NeoSergio00]
+[16Apr2025 14:05:12.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[16Apr2025 14:07:19.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Spectator Mode]
+[16Apr2025 14:07:38.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
