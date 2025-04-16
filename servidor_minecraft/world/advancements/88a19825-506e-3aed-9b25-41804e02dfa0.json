@@ -35,15 +35,21 @@
       "minecraft:taiga": "2025-04-16 14:39:40 +0000",
       "minecraft:sunflower_plains": "2025-04-16 14:00:08 +0000",
       "minecraft:birch_forest": "2025-04-16 14:48:38 +0000",
+      "minecraft:bamboo_jungle": "2025-04-16 15:50:00 +0000",
+      "minecraft:beach": "2025-04-16 15:50:05 +0000",
+      "minecraft:sparse_jungle": "2025-04-16 15:49:55 +0000",
       "minecraft:river": "2025-04-16 14:00:20 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-16 15:50:20 +0000",
       "minecraft:stony_shore": "2025-04-16 14:13:20 +0000",
       "minecraft:jagged_peaks": "2025-04-16 14:16:44 +0000",
       "minecraft:cold_ocean": "2025-04-16 14:14:14 +0000",
       "minecraft:forest": "2025-04-16 14:39:31 +0000",
       "minecraft:ocean": "2025-04-16 14:53:20 +0000",
+      "minecraft:jungle": "2025-04-16 15:48:26 +0000",
       "minecraft:flower_forest": "2025-04-16 14:00:22 +0000",
       "minecraft:frozen_peaks": "2025-04-16 13:57:25 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-16 14:51:24 +0000",
+      "minecraft:savanna": "2025-04-16 15:50:53 +0000",
       "minecraft:plains": "2025-04-16 13:57:14 +0000"
     },
     "done": false
@@ -2989,7 +2995,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-16 15:47:23 +0000",
       "minecraft:skeleton": "2025-04-16 14:21:31 +0000",
+      "minecraft:vindicator": "2025-04-16 15:47:44 +0000",
       "minecraft:spider": "2025-04-16 14:19:00 +0000",
       "minecraft:creeper": "2025-04-16 15:38:58 +0000",
       "minecraft:witch": "2025-04-16 15:00:16 +0000",
@@ -5884,6 +5892,18 @@
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-04-16 15:25:22 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-04-16 15:47:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_hedge": {
+    "criteria": {
+      "has_birch_leaves": "2025-04-16 15:49:50 +0000"
     },
     "done": true
   },
