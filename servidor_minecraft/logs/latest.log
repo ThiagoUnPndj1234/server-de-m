@@ -1005,3 +1005,35 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Apr2025 16:04:40.848] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30614, l='ServerLevel[world]', x=634.50, y=74.00, z=-956.50]
 [16Apr2025 16:04:45.096] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30617, l='ServerLevel[world]', x=673.50, y=71.00, z=-1004.50]
 [16Apr2025 16:05:06.096] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30652, l='ServerLevel[world]', x=644.50, y=75.00, z=-978.50]
+[16Apr2025 16:05:48.896] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30898, l='ServerLevel[world]', x=640.50, y=76.00, z=-1006.50]
+[16Apr2025 16:05:58.596] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30976, l='ServerLevel[world]', x=659.50, y=77.00, z=-949.50]
+[16Apr2025 16:06:20.546] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31288, l='ServerLevel[world]', x=651.50, y=70.00, z=-965.50]
+[16Apr2025 16:06:27.795] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31405, l='ServerLevel[world]', x=658.50, y=76.00, z=-997.50]
+[16Apr2025 16:07:26.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[16Apr2025 16:07:35.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Creative Mode]
+[16Apr2025 16:08:52.197] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33594, l='ServerLevel[world]', x=599.50, y=72.00, z=-970.50]
+[16Apr2025 16:09:01.296] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33620, l='ServerLevel[world]', x=635.50, y=74.00, z=-956.50]
+[16Apr2025 16:09:26.497] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33677, l='ServerLevel[world]', x=636.50, y=74.00, z=-958.50]
+[16Apr2025 16:10:44.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[16Apr2025 16:10:47.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Creative Mode]
+[16Apr2025 16:10:55.845] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/34836, l='ServerLevel[world]', x=642.50, y=74.00, z=-1018.50]
+[16Apr2025 16:10:59.795] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/34839, l='ServerLevel[world]', x=677.50, y=69.00, z=-967.50]
+[16Apr2025 16:12:04.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Gave 1 [Command Block] to NeoSergio00]
+[16Apr2025 16:14:12.402] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[16Apr2025 16:14:12.402] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[16Apr2025 16:14:13.721] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[16Apr2025 16:14:13.722] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[16Apr2025 16:14:13.722] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[16Apr2025 16:14:13.727] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[16Apr2025 16:14:13.727] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[16Apr2025 16:14:13.727] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[16Apr2025 16:14:13.727] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[16Apr2025 16:14:13.727] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[16Apr2025 16:14:13.727] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[16Apr2025 16:17:41.668] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31666, l='ServerLevel[world]', x=674.28, y=62.46, z=-909.77] died, message: 'Unemployed was slain by Drowned'
+[16Apr2025 16:18:01.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeoSergio00 lost connection: Disconnected
+[16Apr2025 16:18:01.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 left the game
+[16Apr2025 16:18:01.527] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NeoSergio00
+[16Apr2025 16:20:23.461] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rick_sis lost connection: Disconnected
+[16Apr2025 16:20:23.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis left the game
+[16Apr2025 16:20:23.467] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Rick_sis
