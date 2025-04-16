@@ -613,3 +613,34 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Apr2025 14:52:04.870] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-69, y=63, z=46}
 [16Apr2025 14:53:07.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Suit Up]
 [16Apr2025 14:54:11.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported Rick_sis to NeoSergio00]
+[16Apr2025 14:54:45.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[16Apr2025 14:54:46.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[16Apr2025 14:54:47.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[16Apr2025 14:54:52.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[16Apr2025 14:54:56.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[16Apr2025 14:55:26.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set the weather to clear]
+[16Apr2025 14:56:24.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[16Apr2025 14:56:39.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[16Apr2025 14:57:10.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Ol' Betsy]
+[16Apr2025 14:57:10.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Take Aim]
+[16Apr2025 14:57:48.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[16Apr2025 14:59:11.499] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=right_2,waterlogged=false] but failed at location BlockPos{x=602, y=35, z=910}
+[16Apr2025 14:59:11.500] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=left_1,waterlogged=false] but failed at location BlockPos{x=600, y=34, z=910}
+[16Apr2025 14:59:11.500] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=middle_2,waterlogged=false] but failed at location BlockPos{x=601, y=35, z=910}
+[16Apr2025 14:59:11.500] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=right_3,waterlogged=false] but failed at location BlockPos{x=602, y=36, z=910}
+[16Apr2025 14:59:11.500] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=right_1,waterlogged=false] but failed at location BlockPos{x=602, y=34, z=910}
+[16Apr2025 14:59:11.501] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=left_4,waterlogged=false] but failed at location BlockPos{x=600, y=37, z=910}
+[16Apr2025 14:59:11.501] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=left_2,waterlogged=false] but failed at location BlockPos{x=600, y=35, z=910}
+[16Apr2025 14:59:11.501] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=middle_3,waterlogged=false] but failed at location BlockPos{x=601, y=36, z=910}
+[16Apr2025 14:59:11.501] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=right_4,waterlogged=false] but failed at location BlockPos{x=602, y=37, z=910}
+[16Apr2025 14:59:11.501] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=left_3,waterlogged=false] but failed at location BlockPos{x=600, y=36, z=910}
+[16Apr2025 14:59:11.501] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=middle_4,waterlogged=false] but failed at location BlockPos{x=601, y=37, z=910}
+[16Apr2025 14:59:34.202] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=-56, z=-43}
+[16Apr2025 14:59:34.203] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=-52, z=-38}
+[16Apr2025 14:59:54.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[16Apr2025 14:59:57.072] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=278, y=-42, z=-77}
+[16Apr2025 15:00:05.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[16Apr2025 15:00:07.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[16Apr2025 15:01:01.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 fell from a high place
+[16Apr2025 15:01:05.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[16Apr2025 15:01:34.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
