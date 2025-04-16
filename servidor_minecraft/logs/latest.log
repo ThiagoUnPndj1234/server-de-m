@@ -650,3 +650,19 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Apr2025 10:49:29.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Creative Mode]
 [16Apr2025 10:49:37.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
 [16Apr2025 10:49:48.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Creative Mode]
+[16Apr2025 10:53:29.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported Eduarnin el Aldeanin to NeoSergio00]
+[16Apr2025 10:53:33.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> hours-basketball.gl.joinmc.link
+[16Apr2025 10:53:35.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> hours-basketball.gl.joinmc.link
+[16Apr2025 10:53:37.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported Eduarnin el Aldeanin to NeoSergio00]
+[16Apr2025 10:55:40.025] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeoSergio00 lost connection: Disconnected
+[16Apr2025 10:55:40.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 left the game
+[16Apr2025 10:55:40.028] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NeoSergio00
+[16Apr2025 10:55:58.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NeoSergio00[/127.44.191.242:60055] logged in with entity id 4359 at (14.114428333935361, 107.0, -3.699999988079071)
+[16Apr2025 10:55:58.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 joined the game
+[16Apr2025 10:55:58.540] [Server thread/INFO] [Jade/]: Syncing config to NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909)
+[16Apr2025 10:55:59.094] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NeoSergio00 (18)
+[16Apr2025 10:55:59.094] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[16Apr2025 10:56:17.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set the time to 0]
+[16Apr2025 10:59:08.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeoSergio00 lost connection: Disconnected
+[16Apr2025 10:59:08.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 left the game
+[16Apr2025 10:59:08.224] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NeoSergio00

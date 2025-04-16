@@ -1,0 +1,27 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "dia_1"
+	group: ""
+	id: "09B20F43F079EADB"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "468D105B0329C339"
+		rewards: [{
+			id: "32633211AB83C00A"
+			item: "pendejosretake:pende_coin_mision"
+			type: "item"
+		}]
+		subtitle: "Consigue una mochila para ir de aventuras"
+		tasks: [{
+			id: "63860DEF1C59A424"
+			item: "sophisticatedbackpacks:backpack"
+			type: "item"
+		}]
+		title: "Dia 1 "
+		x: -1.0d
+		y: -1.0d
+	}]
+	title: "Dia 1"
+}
