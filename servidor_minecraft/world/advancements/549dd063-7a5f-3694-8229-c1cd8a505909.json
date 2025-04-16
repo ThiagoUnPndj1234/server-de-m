@@ -2182,6 +2182,7 @@
       "minecraft:skeleton": "2025-04-16 14:39:47 +0000",
       "minecraft:spider": "2025-04-16 10:46:31 +0000",
       "minecraft:creeper": "2025-04-16 14:18:34 +0000",
+      "minecraft:phantom": "2025-04-16 15:07:15 +0000",
       "minecraft:witch": "2025-04-16 15:00:30 +0000",
       "minecraft:zombie": "2025-04-16 13:53:23 +0000"
     },
@@ -4655,6 +4656,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_button_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-16 15:09:25 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-04-16 14:41:17 +0000"
@@ -4715,6 +4728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_stairs_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-04-16 14:41:17 +0000"
@@ -4724,6 +4743,12 @@
   "valhelsia_furniture:recipes/decorations/orange_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-16 14:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_slab_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
     },
     "done": true
   },
@@ -4745,9 +4770,21 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-16 15:07:33 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/skeleton": {
     "criteria": {
       "has_arrow": "2025-04-16 14:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_trapdoor_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
     },
     "done": true
   },
@@ -4775,6 +4812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_trapdoor_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-16 14:45:05 +0000"
@@ -4784,6 +4827,24 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-16 14:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-16 15:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_door_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
     },
     "done": true
   },
@@ -4799,6 +4860,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_planks_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-16 15:09:24 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-16 14:45:05 +0000"
@@ -4808,6 +4881,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-04-16 14:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
     },
     "done": true
   },
@@ -4826,6 +4905,12 @@
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-16 14:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_chest_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
     },
     "done": true
   },
@@ -4871,6 +4956,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pressure_plate_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_pressure_plate_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2025-04-16 14:41:17 +0000"
@@ -4889,6 +4986,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-16 15:01:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-04-16 14:41:17 +0000"
@@ -4901,9 +5004,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_stairs_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-16 14:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_slab_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/barrel_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
     },
     "done": true
   },
@@ -4919,9 +5040,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_sign_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-16 14:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/crafting_table_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
     },
     "done": true
   },
@@ -4955,9 +5088,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_button_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-16 14:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
     },
     "done": true
   },
@@ -4967,9 +5118,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_gate_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-16 14:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
     },
     "done": true
   },
@@ -4985,9 +5148,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_connected_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-04-16 14:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-16 15:09:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-16 15:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_door_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
     },
     "done": true
   },
@@ -5003,6 +5190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_gate_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-04-16 14:41:15 +0000"
@@ -5012,6 +5205,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-16 14:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_sign_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-16 15:04:56 +0000"
     },
     "done": true
   },

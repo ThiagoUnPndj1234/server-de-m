@@ -6879,3 +6879,86 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Apr2025 15:04:44.735] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/starter_room with rotation CLOCKWISE_90 at (659 | 27 | 1205)
 [16Apr2025 15:04:44.735] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (668 | 27 | 1196)
 [16Apr2025 15:04:44.735] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (668 | 27 | 1196)
+[16Apr2025 15:05:06.820] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=840, y=-8, z=699} at Barrel with:minecraft:chests/simple_dungeon
+[16Apr2025 15:06:04.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 15:06:04.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 15:06:50.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[16Apr2025 15:07:15.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Phantom['Chrz the quick'/9137, l='ServerLevel[world]', x=690.75, y=70.50, z=768.28] died: Chrz the quick was slain by NeoSergio00
+[16Apr2025 15:07:33.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Hot Stuff]
+[16Apr2025 15:08:21.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=691, y=73, z=777} BlockPos{x=691, y=71, z=775}
+[16Apr2025 15:08:49.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Hot Stuff]
+[16Apr2025 15:09:24.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [We Need to Go Deeper]
+[16Apr2025 15:09:25.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3191ms or 63 ticks behind
+[16Apr2025 15:09:25.357] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:ghastboss at BlockPos{x=133, y=59, z=61} at Chest with:minecraft:chests/bastion_other
+[16Apr2025 15:09:32.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[16Apr2025 15:09:36.502] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:shulkerboss at BlockPos{x=760, y=48, z=537} at Chest with:minecraft:chests/simple_dungeon
+[16Apr2025 15:09:42.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[16Apr2025 15:09:43.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[16Apr2025 15:09:44.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[16Apr2025 15:09:45.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[16Apr2025 15:09:53.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[16Apr2025 15:10:08.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Ice Bucket Challenge]
+[16Apr2025 15:11:07.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 15:11:07.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 15:11:36.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [We Need to Go Deeper]
+[16Apr2025 15:11:36.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Gamerule keepInventory is now set to: true]
+[16Apr2025 15:11:39.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 was killed
+[16Apr2025 15:11:39.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Killed NeoSergio00]
+[16Apr2025 15:11:40.540] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=287, y=61, z=167} at Chest with:minecraft:chests/bastion_bridge
+[16Apr2025 15:11:43.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Nightmare Fuel]
+[16Apr2025 15:11:46.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 was killed
+[16Apr2025 15:11:46.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Killed NeoSergio00]
+[16Apr2025 15:13:52.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.40719610858004174
+[16Apr2025 15:13:52.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.8135778391248749
+[16Apr2025 15:13:52.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 1.2113718748483642
+[16Apr2025 15:13:52.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 1.6110184797230112
+[16Apr2025 15:13:52.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.4093933733626933
+[16Apr2025 15:13:52.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.8179679734573746
+[16Apr2025 15:13:52.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.3730019298096252
+[16Apr2025 15:13:52.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.7452578583157994
+[16Apr2025 15:13:52.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 1.0891688649731393
+[16Apr2025 15:13:52.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.3791859400511619
+[16Apr2025 15:13:53.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.7576135164461917
+[16Apr2025 15:13:53.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 1.093427202997848
+[16Apr2025 15:13:53.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.3434178911308905
+[16Apr2025 15:13:53.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.6861489515238048
+[16Apr2025 15:13:53.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.33550027379164504
+[16Apr2025 15:13:53.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.6703295481810407
+[16Apr2025 15:13:53.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 1.004489183253746
+[16Apr2025 15:13:53.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.3339885264517122
+[16Apr2025 15:13:53.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.6673090916701518
+[16Apr2025 15:13:53.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.9999630338718717
+[16Apr2025 15:13:53.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.3319886335048281
+[16Apr2025 15:13:53.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.6633132965293171
+[16Apr2025 15:13:53.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.33066203076070266
+[16Apr2025 15:13:53.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.6606627435774435
+[16Apr2025 15:13:53.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.9900034527700541
+[16Apr2025 15:13:53.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 1.3186854965550836
+[16Apr2025 15:13:53.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 1.6467101892523601
+[16Apr2025 15:13:53.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.3273686559293516
+[16Apr2025 15:13:53.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.6540825894106064
+[16Apr2025 15:13:53.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.980143114763596
+[16Apr2025 15:13:53.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.3254084076478243
+[16Apr2025 15:13:53.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.6501660119103114
+[16Apr2025 15:13:54.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.9742741032105648
+[16Apr2025 15:13:54.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 1.2977339958684126
+[16Apr2025 15:13:54.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.32216736664235057
+[16Apr2025 15:13:54.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.643690405911606
+[16Apr2025 15:13:54.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.3128735507109184
+[16Apr2025 15:13:54.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.6251213676895091
+[16Apr2025 15:13:54.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.3116233322619557
+[16Apr2025 15:14:11.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.2615436449564754
+[16Apr2025 15:14:12.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.5230872899129508
+[16Apr2025 15:14:12.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.7841078609788159
+[16Apr2025 15:14:12.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.3317327083152577
+[16Apr2025 15:14:12.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bicycle (vehicle of NeoSergio00) moved wrongly! 0.6628019682090844
+[16Apr2025 15:14:25.454] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: ServerLevel[world]
+[16Apr2025 15:14:25.566] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundBikeDismountPacket
+[16Apr2025 15:14:25.567] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[16Apr2025 15:14:25.567] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: velocity = 0.14945556, bikeId=12253
+[16Apr2025 15:14:28.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[16Apr2025 15:14:28.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Creative Mode]
+[16Apr2025 15:14:31.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[16Apr2025 15:14:31.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[16Apr2025 15:14:46.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[16Apr2025 15:14:53.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
