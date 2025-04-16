@@ -33,6 +33,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-16 13:57:27 +0000",
       "minecraft:taiga": "2025-04-16 14:39:36 +0000",
+      "minecraft:sunflower_plains": "2025-04-16 15:14:30 +0000",
       "minecraft:birch_forest": "2025-04-16 14:46:42 +0000",
       "minecraft:river": "2025-04-16 14:51:13 +0000",
       "minecraft:stony_shore": "2025-04-16 14:46:13 +0000",
@@ -4644,6 +4645,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-04-16 14:41:38 +0000"
@@ -4704,6 +4711,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-04-16 14:57:10 +0000"
@@ -4731,6 +4744,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_stairs_from_polished_witch_hazel_layered_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-16 15:04:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
     },
     "done": true
   },
@@ -4770,6 +4789,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-04-16 15:07:33 +0000"
@@ -4797,6 +4822,12 @@
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-04-16 14:53:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
     },
     "done": true
   },
@@ -4830,6 +4861,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-04-16 15:09:10 +0000"
@@ -4839,6 +4876,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_from_polished_witch_hazel_layered_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-16 15:04:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
     },
     "done": true
   },
@@ -4866,9 +4909,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-04-16 15:09:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
     },
     "done": true
   },
@@ -4884,6 +4939,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_polished_witch_hazel_layered_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-16 15:04:56 +0000"
@@ -4893,6 +4954,12 @@
   "valhelsia_furniture:recipes/decorations/purple_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-16 14:45:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
     },
     "done": true
   },
@@ -4929,6 +4996,12 @@
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-16 14:45:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
     },
     "done": true
   },
@@ -4986,9 +5059,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-04-16 15:01:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
     },
     "done": true
   },
@@ -5010,6 +5095,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-16 14:45:05 +0000"
@@ -5022,9 +5113,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/barrel_from_polished_witch_hazel_layered_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-16 15:04:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
     },
     "done": true
   },
@@ -5052,6 +5155,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-04-16 15:20:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/crafting_table_from_polished_witch_hazel_layered_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-16 15:04:56 +0000"
@@ -5073,6 +5188,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-04-16 14:41:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
     },
     "done": true
   },
@@ -5142,6 +5263,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-16 14:45:05 +0000"
@@ -5151,6 +5278,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_connected_from_polished_witch_hazel_layered_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-16 15:04:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
     },
     "done": true
   },
@@ -5172,9 +5305,21 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/bit_bag": {
+    "criteria": {
+      "has_b": "2025-04-16 15:15:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_door_from_polished_witch_hazel_layered_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-16 15:04:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-16 15:11:44 +0000"
     },
     "done": true
   },
