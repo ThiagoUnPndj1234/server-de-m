@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "549dd0637a5f36948229c1cd8a505909"
+	name: "NeoSergio00#549dd063"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

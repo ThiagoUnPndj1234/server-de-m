@@ -1,0 +1,17 @@
+{
+	id: "549dd063-7a5f-3694-8229-c1cd8a505909"
+	type: "player"
+	player_name: "NeoSergio00"
+	ranks: {
+		549dd063-7a5f-3694-8229-c1cd8a505909: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "NeoSergio00"
+		"ftbteams:description": ""
+		"ftbteams:color": "#DD59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
