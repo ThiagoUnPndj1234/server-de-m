@@ -544,3 +544,11 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Apr2025 10:19:05.768] [Server thread/INFO] [Jade/]: Syncing config to NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909)
 [16Apr2025 10:19:06.596] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NeoSergio00 (18)
 [16Apr2025 10:19:06.598] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[16Apr2025 10:24:44.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set the time to 13000]
+[16Apr2025 10:24:46.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[16Apr2025 10:24:52.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Creative Mode]
+[16Apr2025 10:24:59.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set the time to 0]
+[16Apr2025 10:26:42.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set the time to 13000]
+[16Apr2025 10:26:44.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[16Apr2025 10:26:54.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Creative Mode]
+[16Apr2025 10:26:57.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set the time to 0]
