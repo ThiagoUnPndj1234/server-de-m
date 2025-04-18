@@ -938,3 +938,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 16:03:42.505] [Worker-Main-143/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=278, y=-42, z=-77}
 [18Apr2025 16:05:53.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [What a Deal!]
 [18Apr2025 16:09:02.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Amateur Archaeologist]
+[18Apr2025 16:12:15.243] [Server thread/INFO] [EMI/]: [EMI] NeoSergio00 deleted 1 feather
+[18Apr2025 16:12:53.016] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
+[18Apr2025 16:12:53.023] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
+[18Apr2025 16:13:19.662] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
+[18Apr2025 16:13:19.669] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
+[18Apr2025 16:13:23.912] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
+[18Apr2025 16:13:23.919] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
+[18Apr2025 16:13:35.961] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
+[18Apr2025 16:13:35.967] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
+[18Apr2025 16:13:38.514] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
+[18Apr2025 16:13:38.524] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
+[18Apr2025 16:13:46.816] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
+[18Apr2025 16:13:46.818] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
+[18Apr2025 16:13:53.415] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
+[18Apr2025 16:13:53.417] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
+[18Apr2025 16:13:56.613] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
+[18Apr2025 16:13:56.616] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
+[18Apr2025 16:13:59.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Not Today, Thank You]
+[18Apr2025 16:15:12.914] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
+[18Apr2025 16:15:12.918] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
+[18Apr2025 16:17:09.410] [Worker-Main-144/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[18Apr2025 16:17:09.416] [Worker-Main-144/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/swamp
+[18Apr2025 16:17:09.493] [Worker-Main-144/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
