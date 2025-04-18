@@ -878,3 +878,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 22:09:54.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> e vuevlto
 [18Apr2025 22:09:59.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
 [18Apr2025 22:10:05.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> mira
+[18Apr2025 22:10:07.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> mi huevo
+[18Apr2025 22:11:29.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Spectator Mode]
+[18Apr2025 22:12:48.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[18Apr2025 22:12:55.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 22:13:19.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[18Apr2025 22:14:01.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Rigged from the Start]
+[18Apr2025 22:14:17.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[18Apr2025 22:14:27.614] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
+[18Apr2025 22:14:27.626] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
+[18Apr2025 22:14:37.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[18Apr2025 22:15:12.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[18Apr2025 22:15:13.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 22:15:23.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[18Apr2025 22:15:37.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Funeral Theft]
+[18Apr2025 22:15:52.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Knowledge raises the soul]
+[18Apr2025 22:16:45.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Where Is The Stone Pen?]
+[18Apr2025 22:17:12.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> tung tung sagur
+[18Apr2025 22:18:05.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[18Apr2025 22:18:14.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 22:18:21.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> hermano jaime
+[18Apr2025 22:18:25.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> estoy medio cansao
+[18Apr2025 22:18:33.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> se
+[18Apr2025 22:18:50.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> bueno
+[18Apr2025 22:18:52.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> me voy
+[18Apr2025 22:18:56.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> bai
+[18Apr2025 22:19:04.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeoSergio00 lost connection: Disconnected
+[18Apr2025 22:19:04.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 left the game
+[18Apr2025 22:19:04.970] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NeoSergio00

@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-18 22:09:48 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/gold": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 21:25:01 +0000"
@@ -374,6 +380,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_microwave": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 21:16:49 +0000"
+    },
+    "done": true
+  },
+  "artifacts:adventurous_eater": {
+    "criteria": {
+      "eat_artifact": "2025-04-18 22:06:51 +0000"
     },
     "done": true
   },
@@ -788,6 +800,12 @@
   "travelersbackpack:recipes/misc/skeleton": {
     "criteria": {
       "has_arrow": "2025-04-18 21:26:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-18 22:09:48 +0000"
     },
     "done": true
   },
@@ -1271,6 +1289,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-04-18 22:15:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_slab_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-18 21:18:01 +0000"
@@ -1643,6 +1667,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-18 22:15:52 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-18 21:18:07 +0000"
@@ -1694,6 +1724,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 21:16:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-04-18 22:14:01 +0000"
     },
     "done": true
   },
@@ -1982,6 +2018,12 @@
   "refurbished_furniture:recipes/misc/wrench": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 21:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-04-18 22:07:05 +0000"
     },
     "done": true
   },
@@ -2339,6 +2381,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-04-18 22:06:03 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 21:25:01 +0000"
@@ -2519,6 +2567,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-04-18 21:14:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone_smithing": {
+    "criteria": {
+      "has_redstone": "2025-04-18 22:14:31 +0000"
     },
     "done": true
   },
@@ -2982,6 +3036,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-18 22:03:10 +0000",
       "minecraft:skeleton": "2025-04-18 21:26:39 +0000",
+      "minecraft:spider": "2025-04-18 22:13:07 +0000",
       "minecraft:husk": "2025-04-18 21:58:31 +0000",
       "minecraft:enderman": "2025-04-18 22:00:51 +0000",
       "minecraft:vex": "2025-04-18 22:05:05 +0000",
@@ -3130,6 +3185,12 @@
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_oak_stool": {
     "criteria": {
       "has_yellow_wool": "2025-04-18 21:22:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-04-18 22:08:09 +0000"
     },
     "done": true
   },
@@ -3970,6 +4031,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_cooler": {
     "criteria": {
       "has_planks": "2025-04-18 21:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-18 22:07:05 +0000"
     },
     "done": true
   },

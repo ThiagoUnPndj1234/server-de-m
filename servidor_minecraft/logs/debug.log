@@ -6231,3 +6231,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 22:09:54.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> e vuevlto
 [18Apr2025 22:09:59.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
 [18Apr2025 22:10:05.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> mira
+[18Apr2025 22:10:07.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> mi huevo
+[18Apr2025 22:10:58.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 22:10:58.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 22:11:24.838] [Worker-Main-38/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:shulkerboss at BlockPos{x=1367, y=-15, z=-355} at Chest with:minecraft:chests/simple_dungeon
+[18Apr2025 22:11:29.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Spectator Mode]
+[18Apr2025 22:11:31.161] [Worker-Main-46/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=1143, y=35, z=56} at Chest with:minecraft:chests/simple_dungeon
+[18Apr2025 22:11:35.534] [Worker-Main-39/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=945, y=63, z=72} at Chest with:minecraft:chests/desert_pyramid
+[18Apr2025 22:12:26.385] [Worker-Main-46/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:guardianboss at BlockPos{x=1349, y=63, z=109} at Chest with:minecraft:chests/shipwreck_map
+[18Apr2025 22:12:48.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[18Apr2025 22:12:55.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 22:13:19.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[18Apr2025 22:14:01.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Rigged from the Start]
+[18Apr2025 22:14:17.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[18Apr2025 22:14:27.614] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
+[18Apr2025 22:14:27.626] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
+[18Apr2025 22:14:37.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[18Apr2025 22:15:12.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[18Apr2025 22:15:13.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 22:15:23.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[18Apr2025 22:15:37.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Funeral Theft]
+[18Apr2025 22:15:52.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Knowledge raises the soul]
+[18Apr2025 22:15:58.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 22:15:58.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 22:16:08.075] [Worker-Main-39/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=1320, y=69, z=223} at Chest with:minecraft:chests/desert_pyramid
+[18Apr2025 22:16:45.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Where Is The Stone Pen?]
+[18Apr2025 22:17:12.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> tung tung sagur
+[18Apr2025 22:17:25.958] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: 549dd063-7a5f-3694-8229-c1cd8a505909 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=1bf8b824-0000-0000-0000-000000000000, length=51, extra={valid=false}}, startingAt=0, player=null}
+[18Apr2025 22:17:28.309] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: 549dd063-7a5f-3694-8229-c1cd8a505909 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=1bf8b824-0000-0000-0000-000000000000, emoteData=null, startingAt=0, player=null}
+[18Apr2025 22:17:57.158] [Worker-Main-39/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=1231, y=36, z=402} at Chest with:minecraft:chests/simple_dungeon
+[18Apr2025 22:18:05.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[18Apr2025 22:18:14.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 22:18:21.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> hermano jaime
+[18Apr2025 22:18:25.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> estoy medio cansao
+[18Apr2025 22:18:33.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> se
+[18Apr2025 22:18:50.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> bueno
+[18Apr2025 22:18:52.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> me voy
+[18Apr2025 22:18:56.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> bai
+[18Apr2025 22:19:02.028] [Worker-Main-46/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=1095, y=-8, z=525} at Chest with:minecraft:chests/simple_dungeon
+[18Apr2025 22:19:04.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeoSergio00 lost connection: Disconnected
+[18Apr2025 22:19:04.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 left the game
+[18Apr2025 22:19:04.970] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of NeoSergio00
+[18Apr2025 22:19:04.970] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NeoSergio00
+[18Apr2025 22:19:05.015] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 does not have a secret
+[18Apr2025 22:19:13.677] [Worker-Main-38/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=842, y=68, z=312} at Barrel with:minecraft:chests/simple_dungeon
+[18Apr2025 22:19:25.626] [Worker-Main-62/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=791, y=50, z=105} at Chest with:minecraft:chests/underwater_ruin_big

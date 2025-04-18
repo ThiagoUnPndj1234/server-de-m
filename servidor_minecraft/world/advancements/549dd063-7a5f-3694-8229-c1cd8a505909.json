@@ -1124,7 +1124,8 @@
       "cooked_beef": "2025-04-18 14:58:52 +0000",
       "mutton": "2025-04-18 15:58:43 +0000",
       "bread": "2025-04-18 16:05:25 +0000",
-      "golden_apple": "2025-04-18 16:29:56 +0000"
+      "golden_apple": "2025-04-18 16:29:56 +0000",
+      "cooked_chicken": "2025-04-18 22:15:18 +0000"
     },
     "done": false
   },
@@ -6006,6 +6007,12 @@
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
       "has_enchanted_voodoo_poppet": "2025-04-18 22:05:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone_smithing": {
+    "criteria": {
+      "has_redstone": "2025-04-18 22:14:48 +0000"
     },
     "done": true
   },
