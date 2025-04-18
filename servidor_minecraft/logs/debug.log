@@ -5891,3 +5891,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 14:56:45.028] [Worker-Main-145/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=349, y=-3, z=313} at Chest with:minecraft:chests/simple_dungeon
 [18Apr2025 14:56:45.292] [Worker-Main-144/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:endervindicatorboss at BlockPos{x=349, y=-41, z=441} at Chest with:minecraft:chests/simple_dungeon
 [18Apr2025 14:57:20.048] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=true, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[18Apr2025 14:58:49.568] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
+[18Apr2025 14:58:49.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Gave 6 [Steak] to NeoSergio00]
+[18Apr2025 14:59:26.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 14:59:26.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 15:00:42.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Crops of the Wild]
+[18Apr2025 15:01:42.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Stone Age]
+[18Apr2025 15:02:25.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Getting an Upgrade]
+[18Apr2025 15:04:26.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 15:04:26.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 15:06:54.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Easter Egg Searcher]
+[18Apr2025 15:07:15.481] [Worker-Main-153/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=249, y=-43, z=51} at Chest with:minecraft:chests/simple_dungeon
+[18Apr2025 15:07:24.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Monster Hunter]
+[18Apr2025 15:07:28.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Knowledge of Death]
+[18Apr2025 15:07:28.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Ambush]
+[18Apr2025 15:07:42.485] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 549dd063-7a5f-3694-8229-c1cd8a505909 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=b9f55389-51de-4183-9dac-e51745cda1f7, length=63, extra={valid=true}}, startingAt=0, player=null}
+[18Apr2025 15:07:46.786] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 549dd063-7a5f-3694-8229-c1cd8a505909 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=b9f55389-51de-4183-9dac-e51745cda1f7, emoteData=null, startingAt=0, player=null}
+[18Apr2025 15:07:47.806] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 549dd063-7a5f-3694-8229-c1cd8a505909 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=b9f55389-51de-4183-9dac-e51745cda1f7, length=63, extra={valid=true}}, startingAt=0, player=null}
+[18Apr2025 15:08:02.735] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 549dd063-7a5f-3694-8229-c1cd8a505909 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=b9f55389-51de-4183-9dac-e51745cda1f7, emoteData=null, startingAt=0, player=null}
+[18Apr2025 15:08:03.181] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 549dd063-7a5f-3694-8229-c1cd8a505909 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=b9f55389-51de-4183-9dac-e51745cda1f7, length=63, extra={valid=true}}, startingAt=0, player=null}
+[18Apr2025 15:08:04.585] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 549dd063-7a5f-3694-8229-c1cd8a505909 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=b9f55389-51de-4183-9dac-e51745cda1f7, emoteData=null, startingAt=0, player=null}
+[18Apr2025 15:08:14.217] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 549dd063-7a5f-3694-8229-c1cd8a505909 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=b9f55389-51de-4183-9dac-e51745cda1f7, length=63, extra={valid=true}}, startingAt=0, player=null}
+[18Apr2025 15:08:24.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Knowledge raises the soul]
+[18Apr2025 15:08:31.251] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 549dd063-7a5f-3694-8229-c1cd8a505909 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=b9f55389-51de-4183-9dac-e51745cda1f7, emoteData=null, startingAt=0, player=null}

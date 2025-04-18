@@ -802,3 +802,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 14:55:45.419] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NeoSergio00 (18)
 [18Apr2025 14:55:45.420] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
 [18Apr2025 14:56:16.291] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=242, y=-2, z=114}
+[18Apr2025 14:58:49.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Gave 6 [Steak] to NeoSergio00]
+[18Apr2025 15:00:42.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Crops of the Wild]
+[18Apr2025 15:01:42.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Stone Age]
+[18Apr2025 15:02:25.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Getting an Upgrade]
+[18Apr2025 15:06:54.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Easter Egg Searcher]
+[18Apr2025 15:07:24.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Monster Hunter]
+[18Apr2025 15:07:28.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Knowledge of Death]
+[18Apr2025 15:07:28.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Ambush]
+[18Apr2025 15:08:24.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Knowledge raises the soul]
