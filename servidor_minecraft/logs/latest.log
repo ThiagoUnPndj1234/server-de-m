@@ -796,3 +796,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 14:17:28.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
 [18Apr2025 14:47:20.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [18Apr2025 14:47:20.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[18Apr2025 14:55:43.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NeoSergio00[/127.44.191.242:55985] logged in with entity id 5520 at (24.509035508738553, 63.0, 318.82089410401636)
+[18Apr2025 14:55:43.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 joined the game
+[18Apr2025 14:55:43.850] [Server thread/INFO] [Jade/]: Syncing config to NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909)
+[18Apr2025 14:55:45.419] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NeoSergio00 (18)
+[18Apr2025 14:55:45.420] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[18Apr2025 14:56:16.291] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=242, y=-2, z=114}
