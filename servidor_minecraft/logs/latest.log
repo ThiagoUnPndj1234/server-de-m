@@ -754,3 +754,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 20:51:32.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeoSergio00 lost connection: Disconnected
 [18Apr2025 20:51:32.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 left the game
 [18Apr2025 20:51:32.363] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NeoSergio00
+[18Apr2025 21:09:51.364] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rick_sis[/127.114.21.249:39561] logged in with entity id 956 at (6.5, 68.0, -1.5)
+[18Apr2025 21:09:51.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis joined the game
+[18Apr2025 21:09:51.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has reached the goal [Easter]
+[18Apr2025 21:09:51.726] [Server thread/INFO] [Jade/]: Syncing config to Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0)
+[18Apr2025 21:09:52.486] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Rick_sis (18)
+[18Apr2025 21:09:52.487] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[18Apr2025 21:09:59.266] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[18Apr2025 21:10:00.266] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[18Apr2025 21:10:00.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[18Apr2025 21:10:50.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Monster Hunter]
+[18Apr2025 21:11:02.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=72, z=-13}
+[18Apr2025 21:11:02.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=72, z=-14}
+[18Apr2025 21:11:05.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=71, z=-15}
+[18Apr2025 21:11:11.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=71, z=-16}
+[18Apr2025 21:12:08.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Rick_sis a server operator
+[18Apr2025 21:12:22.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Rick_sis: hermano soy un skibidi rencarnao
+[18Apr2025 21:13:21.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[18Apr2025 21:13:22.308] [Server thread/INFO] [Easy NPC/]: Opening menu 48d68e55-af4f-496a-9eab-7e3e5ce9666b for npc 34a8ed7e-6908-4b02-a1fe-d36275ebe8f4 and player ServerPlayer['Rick_sis'/956, l='ServerLevel[world]', x=-2.32, y=70.00, z=-11.70] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Eduarnin el Alde]}]
+[18Apr2025 21:13:35.438] [Server thread/INFO] [Easy NPC/]: Opening menu fd6ee731-1989-4023-b25f-2f0fdf326ea7 for npc 34a8ed7e-6908-4b02-a1fe-d36275ebe8f4 and player ServerPlayer['Rick_sis'/956, l='ServerLevel[world]', x=-2.32, y=70.00, z=-11.70] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[Eduarnin el Alde]}]
+[18Apr2025 21:13:45.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 21:13:45.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[18Apr2025 21:13:49.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 21:15:27.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[18Apr2025 21:15:42.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 21:16:03.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[18Apr2025 21:16:08.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Gave 1 [Barrier] to Rick_sis]
+[18Apr2025 21:16:39.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 21:16:49.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Acquire Hardware]
+[18Apr2025 21:18:13.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Isn't It Iron Pick]
+[18Apr2025 21:18:22.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Stone Age]
+[18Apr2025 21:19:24.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Getting an Upgrade]
