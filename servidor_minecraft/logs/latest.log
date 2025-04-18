@@ -933,3 +933,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 15:34:21.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> GOD
 [18Apr2025 15:34:36.935] [Server thread/INFO] [EMI/]: [EMI] NeoSergio00 deleted 1 andesite
 [18Apr2025 15:34:38.012] [Server thread/INFO] [EMI/]: [EMI] NeoSergio00 deleted 2 mangrove_slab
+[18Apr2025 15:51:31.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeoSergio00 moved wrongly!
+[18Apr2025 15:56:36.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Acquire Hardware]
