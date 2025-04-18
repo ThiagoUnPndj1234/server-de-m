@@ -1801,3 +1801,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 23:18:14.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
 [18Apr2025 23:18:17.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
 [18Apr2025 23:20:00.153] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/29204, l='ServerLevel[world]', x=671.51, y=73.00, z=776.51] died, message: 'Fisherman discovered the floor was lava'
+[18Apr2025 23:25:17.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rick_sis lost connection: Disconnected
+[18Apr2025 23:25:17.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis left the game
+[18Apr2025 23:25:17.416] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Rick_sis
+[18Apr2025 23:26:43.569] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rick_sis[/127.114.21.249:33185] logged in with entity id 33742 at (663.5, 77.0, 795.5)
+[18Apr2025 23:26:43.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis joined the game
+[18Apr2025 23:26:43.620] [Server thread/INFO] [Jade/]: Syncing config to Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0)
+[18Apr2025 23:26:44.200] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Rick_sis (18)
+[18Apr2025 23:26:44.201] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[18Apr2025 23:26:50.522] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[18Apr2025 23:26:51.877] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[18Apr2025 23:26:51.878] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[18Apr2025 23:27:02.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[18Apr2025 23:27:02.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[18Apr2025 23:27:02.583] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[18Apr2025 23:27:13.615] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rick_sis lost connection: Disconnected
+[18Apr2025 23:27:13.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis left the game
+[18Apr2025 23:27:13.616] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Rick_sis
+[18Apr2025 23:27:13.667] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
