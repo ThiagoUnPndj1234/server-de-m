@@ -742,3 +742,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 11:15:47.313] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [18Apr2025 11:15:47.324] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
 [18Apr2025 11:15:47.366] [pool-11-thread-1/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Started PendingImageUpdateThread
+[18Apr2025 11:34:25.934] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[18Apr2025 11:34:26.045] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NeoSergio00[/127.44.191.242:58937] logged in with entity id 790 at (-3.8338802337468496, 67.0, 5.608645145271074)
+[18Apr2025 11:34:26.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 joined the game
+[18Apr2025 11:34:26.437] [Server thread/INFO] [Jade/]: Syncing config to NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909)
+[18Apr2025 11:34:27.959] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NeoSergio00 (18)
+[18Apr2025 11:34:27.961] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
