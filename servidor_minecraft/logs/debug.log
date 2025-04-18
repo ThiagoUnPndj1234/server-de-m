@@ -8219,3 +8219,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 23:27:34.969] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 does not have a secret
 [18Apr2025 23:27:34.969] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 does not have a secret
 [18Apr2025 23:27:34.969] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 does not have a secret
+[18Apr2025 23:31:58.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 23:31:58.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 23:36:58.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 23:36:58.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
