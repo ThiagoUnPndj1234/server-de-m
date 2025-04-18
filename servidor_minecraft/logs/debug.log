@@ -5527,3 +5527,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 12:10:46.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Creative Mode]
 [18Apr2025 12:14:26.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 12:14:26.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 12:19:26.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 12:19:26.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 12:24:26.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 12:24:26.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 12:25:14.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Removed objective [Muertes]]
+[18Apr2025 12:25:16.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Removed objective [Muertess]]
+[18Apr2025 12:25:33.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Created new objective [Muertes]]
+[18Apr2025 12:25:47.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set display slot list to show objective Muertes]
+[18Apr2025 12:25:57.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set display slot sidebar to show objective Muertes]
+[18Apr2025 12:26:05.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set display slot belowName to show objective Muertes]
+[18Apr2025 12:26:29.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Removed objective [Muertes]]
+[18Apr2025 12:26:45.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Created new objective [Muertes]]
