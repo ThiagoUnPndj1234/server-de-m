@@ -1,0 +1,26 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "consigue_tu_libro_de_misiones"
+	group: "3F1F878441C6239D"
+	id: "221FF446F76C8E93"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "356E167816D455EC"
+		rewards: [{
+			id: "4619ADF044AA954B"
+			item: "pendejosretake:pende_coins_comprar"
+			type: "item"
+		}]
+		subtitle: "Tradea Con Eduarnin para Obtener tu comienzo de misiones"
+		tasks: [{
+			id: "23A6D6CF4752F590"
+			item: "ftbquests:book"
+			type: "item"
+		}]
+		x: -2.0d
+		y: -1.5d
+	}]
+	title: "Consigue tu libro de misiones"
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "uuid": "549dd063-7a5f-3694-8229-c1cd8a505909",
+    "displayName": {
+      "insertion": "NeoSergio00",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell NeoSergio00 "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "549dd063-7a5f-3694-8229-c1cd8a505909",
+          "name": {
+            "text": "NeoSergio00"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "NeoSergio00"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  }
+]

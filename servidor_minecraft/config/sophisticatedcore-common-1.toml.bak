@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedbackpacks:void_upgrade|true", "sophisticatedbackpacks:everlasting_upgrade|true", "sophisticatedbackpacks:pump_upgrade|true", "sophisticatedbackpacks:tool_swapper_upgrade|true", "sophisticatedbackpacks:smoking_upgrade|true", "sophisticatedbackpacks:advanced_pump_upgrade|true", "sophisticatedbackpacks:upgrade_base|true", "sophisticatedbackpacks:filter_upgrade|true", "sophisticatedbackpacks:magnet_upgrade|true"]
+

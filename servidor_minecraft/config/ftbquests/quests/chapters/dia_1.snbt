@@ -2,26 +2,34 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "dia_1"
-	group: ""
-	id: "09B20F43F079EADB"
-	order_index: 0
+	group: "3F1F878441C6239D"
+	id: "02E505C9EE97F4ED"
+	order_index: 1
 	quest_links: [ ]
 	quests: [{
-		id: "468D105B0329C339"
-		rewards: [{
-			id: "32633211AB83C00A"
-			item: "pendejosretake:pende_coin_mision"
-			type: "item"
-		}]
-		subtitle: "Consigue una mochila para ir de aventuras"
+		id: "6BFD8CDCE26B1682"
+		rewards: [
+			{
+				id: "3F09171E77B76710"
+				item: "pendejosretake:pende_coin_mision"
+				type: "item"
+			}
+			{
+				count: 2
+				id: "41E97D9C1D086A3A"
+				item: "pendejosretake:pende_coins_comprar"
+				type: "item"
+			}
+		]
+		subtitle: "Equipate Con algo para mejorar tu espacio"
 		tasks: [{
-			id: "63860DEF1C59A424"
+			id: "0AD1E5A50A72FD3A"
 			item: "sophisticatedbackpacks:backpack"
 			type: "item"
 		}]
-		title: "Dia 1 "
-		x: -1.0d
-		y: -1.0d
+		title: "Dia 1 Comienza tu aventura"
+		x: 0.0d
+		y: 0.0d
 	}]
 	title: "Dia 1"
 }
