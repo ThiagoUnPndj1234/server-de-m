@@ -744,3 +744,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 20:07:01.674] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [18Apr2025 20:07:01.684] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
 [18Apr2025 20:07:01.715] [pool-11-thread-1/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Started PendingImageUpdateThread
+[18Apr2025 20:19:46.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Apr2025 20:19:46.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
