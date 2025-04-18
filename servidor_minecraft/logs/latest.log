@@ -794,3 +794,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 13:59:45.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
 [18Apr2025 14:17:28.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [18Apr2025 14:17:28.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[18Apr2025 14:47:20.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Apr2025 14:47:20.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
