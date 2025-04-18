@@ -787,3 +787,94 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 21:19:24.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Getting an Upgrade]
 [18Apr2025 21:27:17.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [A Strange Grave Dust]
 [18Apr2025 21:27:30.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Ice Bucket Challenge]
+[18Apr2025 21:29:54.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Knowledge of Death]
+[18Apr2025 21:29:54.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Easter Egg Searcher]
+[18Apr2025 21:30:28.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Ashes 'n Bones]
+[18Apr2025 21:32:33.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[18Apr2025 21:32:50.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 21:33:35.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Sweet Dreams]
+[18Apr2025 21:37:10.065] [Server thread/WARN] [tombstone/]: The death event of the player Rick_sis was canceled by another mod
+[18Apr2025 21:37:10.076] [Server thread/INFO] [tombstone/]: The player Rick_sis has successfully been saved
+[18Apr2025 21:46:10.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NeoSergio00[/127.44.191.242:59629] logged in with entity id 7877 at (-1.7602025691593268, 71.0, -12.635011454349552)
+[18Apr2025 21:46:10.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 joined the game
+[18Apr2025 21:46:10.999] [Server thread/INFO] [Jade/]: Syncing config to NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909)
+[18Apr2025 21:46:14.772] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NeoSergio00 (18)
+[18Apr2025 21:46:14.773] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[18Apr2025 21:46:25.852] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[18Apr2025 21:46:26.852] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[18Apr2025 21:46:26.852] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[18Apr2025 21:47:18.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> viva skibidi toilet
+[18Apr2025 21:47:18.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Suit Up]
+[18Apr2025 21:47:23.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rick_sis> skill issue
+[18Apr2025 21:49:05.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[18Apr2025 21:49:09.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> hola
+[18Apr2025 21:49:35.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Hot Stuff]
+[18Apr2025 21:50:30.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> que hace loko
+[18Apr2025 21:50:38.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> jaime
+[18Apr2025 21:50:47.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> calvo estas en un grupo de voicechat
+[18Apr2025 21:51:39.463] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
+[18Apr2025 21:51:39.471] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
+[18Apr2025 21:51:53.314] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
+[18Apr2025 21:51:53.317] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
+[18Apr2025 21:52:20.063] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
+[18Apr2025 21:52:20.066] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
+[18Apr2025 21:52:25.236] [Server thread/WARN] [tombstone/]: The death event of the player Rick_sis was canceled by another mod
+[18Apr2025 21:52:25.239] [Server thread/INFO] [tombstone/]: The player Rick_sis has successfully been saved
+[18Apr2025 21:52:32.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[18Apr2025 21:52:34.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 21:53:21.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[18Apr2025 21:53:35.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 21:54:14.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rick_sis> metete al grupo la contraseña es sexo
+[18Apr2025 21:54:25.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> ola
+[18Apr2025 21:54:41.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[18Apr2025 21:54:55.031] [Worker-Main-38/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[18Apr2025 21:54:55.038] [Worker-Main-38/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[18Apr2025 21:54:55.119] [Worker-Main-38/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[18Apr2025 21:54:56.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> hermano porque tengo mas vida
+[18Apr2025 21:55:02.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> ala
+[18Apr2025 21:55:08.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> no
+[18Apr2025 21:55:48.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> pera
+[18Apr2025 21:56:59.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> soy meri popins
+[18Apr2025 21:57:22.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [No Step on Snake]
+[18Apr2025 21:58:10.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Crops of the Wild]
+[18Apr2025 21:58:49.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Amateur Archaeologist]
+[18Apr2025 21:59:35.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rick_sis> niño africa
+[18Apr2025 22:00:30.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[18Apr2025 22:00:34.673] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Rabbit['Kip the Swift'/11900, l='ServerLevel[world]', x=896.03, y=63.00, z=-265.09] died: Kip the Swift was slain by Rick_sis
+[18Apr2025 22:00:54.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> hermano
+[18Apr2025 22:01:00.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> el paragua es infinito
+[18Apr2025 22:01:02.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> no se gasta
+[18Apr2025 22:01:10.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> no se gasta
+[18Apr2025 22:01:13.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[18Apr2025 22:01:32.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Spectator Mode]
+[18Apr2025 22:01:34.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[18Apr2025 22:01:37.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 22:01:40.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[18Apr2025 22:01:41.213] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
+[18Apr2025 22:01:41.215] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
+[18Apr2025 22:02:12.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Spectator Mode]
+[18Apr2025 22:02:18.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[18Apr2025 22:02:24.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 22:03:10.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[18Apr2025 22:03:10.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Ambush]
+[18Apr2025 22:04:23.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Creative Mode]
+[18Apr2025 22:04:28.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[18Apr2025 22:04:32.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 22:04:44.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[18Apr2025 22:04:44.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 22:04:46.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[18Apr2025 22:05:05.262] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Kex the Mean'/15173, l='ServerLevel[world]', x=1090.85, y=79.23, z=-261.03] died: Kex the Mean was slain by Rick_sis
+[18Apr2025 22:05:42.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Diamonds!]
+[18Apr2025 22:05:43.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Not even afraid of death]
+[18Apr2025 22:05:43.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Back to childhood]
+[18Apr2025 22:05:51.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> jaime
+[18Apr2025 22:05:53.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> mochila
+[18Apr2025 22:05:56.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Magic Writing]
+[18Apr2025 22:06:30.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> esqe creo qe es de hierro
+[18Apr2025 22:06:51.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Adventurous Eater]
+[18Apr2025 22:08:09.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has reached the goal [Fortuitous Militia]
+[18Apr2025 22:08:09.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> afk
+[18Apr2025 22:08:13.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Spectator Mode]
+[18Apr2025 22:09:54.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> e vuevlto
+[18Apr2025 22:09:59.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[18Apr2025 22:10:05.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> mira
