@@ -5914,3 +5914,60 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 15:08:14.217] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 549dd063-7a5f-3694-8229-c1cd8a505909 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=b9f55389-51de-4183-9dac-e51745cda1f7, length=63, extra={valid=true}}, startingAt=0, player=null}
 [18Apr2025 15:08:24.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Knowledge raises the soul]
 [18Apr2025 15:08:31.251] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 549dd063-7a5f-3694-8229-c1cd8a505909 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=b9f55389-51de-4183-9dac-e51745cda1f7, emoteData=null, startingAt=0, player=null}
+[18Apr2025 15:09:26.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 15:09:26.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 15:11:17.294] [Worker-Main-153/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:pillagerboss at BlockPos{x=504, y=25, z=189} at Chest with:minecraft:chests/simple_dungeon
+[18Apr2025 15:11:17.429] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=left_1,waterlogged=false] but failed at location BlockPos{x=480, y=25, z=219}
+[18Apr2025 15:11:17.430] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=left_2,waterlogged=false] but failed at location BlockPos{x=480, y=26, z=219}
+[18Apr2025 15:11:17.432] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=right_1,waterlogged=false] but failed at location BlockPos{x=480, y=25, z=217}
+[18Apr2025 15:11:17.432] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=middle_2,waterlogged=false] but failed at location BlockPos{x=480, y=26, z=218}
+[18Apr2025 15:11:17.432] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=left_3,waterlogged=false] but failed at location BlockPos{x=480, y=27, z=219}
+[18Apr2025 15:11:17.433] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=right_2,waterlogged=false] but failed at location BlockPos{x=480, y=26, z=217}
+[18Apr2025 15:11:17.434] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=middle_3,waterlogged=false] but failed at location BlockPos{x=480, y=27, z=218}
+[18Apr2025 15:11:17.435] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=left_4,waterlogged=false] but failed at location BlockPos{x=480, y=28, z=219}
+[18Apr2025 15:11:17.435] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=right_3,waterlogged=false] but failed at location BlockPos{x=480, y=27, z=217}
+[18Apr2025 15:11:17.436] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=middle_4,waterlogged=false] but failed at location BlockPos{x=480, y=28, z=218}
+[18Apr2025 15:11:17.437] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=right_4,waterlogged=false] but failed at location BlockPos{x=480, y=28, z=217}
+[18Apr2025 15:11:30.471] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[18Apr2025 15:11:30.472] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[18Apr2025 15:11:30.472] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[18Apr2025 15:11:30.473] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[18Apr2025 15:11:30.473] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[18Apr2025 15:11:30.491] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[18Apr2025 15:11:30.491] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[18Apr2025 15:11:30.492] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[18Apr2025 15:11:33.904] [Worker-Main-143/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=586, y=25, z=264} at Barrel with:minecraft:chests/simple_dungeon
+[18Apr2025 15:11:34.384] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[18Apr2025 15:11:34.384] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[18Apr2025 15:11:34.384] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[18Apr2025 15:11:34.385] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[18Apr2025 15:11:34.385] [Worker-Main-155/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[18Apr2025 15:11:34.426] [Worker-Main-154/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[18Apr2025 15:11:34.427] [Worker-Main-154/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[18Apr2025 15:11:34.427] [Worker-Main-154/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[18Apr2025 15:11:34.427] [Worker-Main-154/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[18Apr2025 15:11:34.427] [Worker-Main-154/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[18Apr2025 15:11:34.428] [Worker-Main-154/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[18Apr2025 15:11:34.428] [Worker-Main-154/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[18Apr2025 15:11:38.797] [Worker-Main-154/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=392, y=-17, z=587} at Barrel with:minecraft:chests/simple_dungeon
+[18Apr2025 15:11:39.029] [Worker-Main-155/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=262, y=8, z=584} at Barrel with:minecraft:chests/simple_dungeon
+[18Apr2025 15:13:21.945] [Worker-Main-143/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:guardianboss at BlockPos{x=723, y=57, z=309} at Chest with:minecraft:chests/underwater_ruin_small
+[18Apr2025 15:14:26.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 15:14:26.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 15:14:58.739] [Worker-Main-153/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=712, y=-12, z=645} at Barrel with:minecraft:chests/simple_dungeon
+[18Apr2025 15:15:12.620] [Worker-Main-155/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=391, y=-53, z=717} at Chest with:minecraft:chests/simple_dungeon
+[18Apr2025 15:15:13.016] [Worker-Main-144/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:pillagerboss at BlockPos{x=632, y=0, z=715} at Barrel with:minecraft:chests/simple_dungeon
+[18Apr2025 15:15:23.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Creative Mode]
+[18Apr2025 15:16:29.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[18Apr2025 15:16:38.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> no puedo micro esbirrooooooo
+[18Apr2025 15:17:17.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> sisisi
+[18Apr2025 15:17:20.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> habla como quiera
+[18Apr2025 15:17:23.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> estoy con lo caso
+[18Apr2025 15:17:25.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> casco
+[18Apr2025 15:17:46.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Gave 1 [Picha Espada] to NeoSergio00]
+[18Apr2025 15:18:15.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> literalmente es lo mas op
+[18Apr2025 15:18:24.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> 25 de daño
+[18Apr2025 15:18:31.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Changed the block at 587, 63, 516]
+[18Apr2025 15:18:34.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> otia
+[18Apr2025 15:18:45.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> no
+[18Apr2025 15:18:51.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> se consigue con las pendecoins
