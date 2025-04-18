@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-04-18 22:23:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-04-18 21:18:01 +0000"
@@ -713,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-18 22:24:30 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/purple_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-04-18 21:16:49 +0000"
@@ -1085,6 +1097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-18 22:24:30 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-04-18 21:27:23 +0000"
@@ -1100,6 +1118,12 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-04-18 21:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-04-18 22:23:45 +0000"
     },
     "done": true
   },
@@ -1694,6 +1718,12 @@
   "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
     "criteria": {
       "has_log": "2025-04-18 22:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-18 22:23:45 +0000"
     },
     "done": true
   },
@@ -2452,7 +2482,8 @@
       "beetroot_soup": "2025-04-18 21:39:34 +0000",
       "potato": "2025-04-18 21:39:29 +0000",
       "mutton": "2025-04-18 21:35:16 +0000",
-      "bread": "2025-04-18 21:26:04 +0000"
+      "bread": "2025-04-18 21:26:04 +0000",
+      "golden_apple": "2025-04-18 22:24:00 +0000"
     },
     "done": false
   },
@@ -3036,7 +3067,10 @@
     "criteria": {
       "minecraft:pillager": "2025-04-18 22:03:10 +0000",
       "minecraft:skeleton": "2025-04-18 21:26:39 +0000",
+      "minecraft:hoglin": "2025-04-18 22:24:28 +0000",
       "minecraft:spider": "2025-04-18 22:13:07 +0000",
+      "minecraft:phantom": "2025-04-18 22:27:20 +0000",
+      "minecraft:wither_skeleton": "2025-04-18 22:24:31 +0000",
       "minecraft:husk": "2025-04-18 21:58:31 +0000",
       "minecraft:enderman": "2025-04-18 22:00:51 +0000",
       "minecraft:vex": "2025-04-18 22:05:05 +0000",
@@ -3512,6 +3546,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-04-18 22:22:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-04-18 22:00:34 +0000"
@@ -3815,6 +3855,12 @@
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-04-18 21:16:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-04-18 22:24:30 +0000"
     },
     "done": true
   },
@@ -4160,6 +4206,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-18 22:24:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/laser_block": {
     "criteria": {
       "has_stone": "2025-04-18 21:18:22 +0000"
@@ -4308,6 +4360,18 @@
   "decorative_blocks:recipes/building_blocks/acacia_support": {
     "criteria": {
       "has_plank": "2025-04-18 21:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-18 22:24:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-18 22:24:30 +0000"
     },
     "done": true
   },
@@ -4506,6 +4570,12 @@
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-18 21:18:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-04-18 22:16:45 +0000"
     },
     "done": true
   },
@@ -5054,6 +5124,7 @@
       "minecraft:beach": "2025-04-18 21:55:53 +0000",
       "minecraft:river": "2025-04-18 21:35:30 +0000",
       "minecraft:dripstone_caves": "2025-04-18 21:53:30 +0000",
+      "minecraft:forest": "2025-04-18 22:18:10 +0000",
       "minecraft:desert": "2025-04-18 21:56:01 +0000",
       "minecraft:warm_ocean": "2025-04-18 21:56:03 +0000",
       "minecraft:savanna": "2025-04-18 21:09:52 +0000"
