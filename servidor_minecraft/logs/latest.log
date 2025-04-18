@@ -742,3 +742,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 20:40:58.631] [pool-11-thread-1/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Started PendingImageUpdateThread
 [18Apr2025 20:41:32.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [18Apr2025 20:41:32.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[18Apr2025 20:50:15.307] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[18Apr2025 20:50:15.438] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NeoSergio00[/127.44.191.242:53037] logged in with entity id 782 at (-2.2816045266541134, 70.0, -11.300369078921038)
+[18Apr2025 20:50:15.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 joined the game
+[18Apr2025 20:50:15.949] [Server thread/INFO] [Jade/]: Syncing config to NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909)
+[18Apr2025 20:50:24.311] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NeoSergio00 (18)
+[18Apr2025 20:50:24.313] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[18Apr2025 20:50:51.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[18Apr2025 20:50:52.533] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[18Apr2025 20:50:52.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[18Apr2025 20:51:32.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeoSergio00 lost connection: Disconnected
+[18Apr2025 20:51:32.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 left the game
+[18Apr2025 20:51:32.363] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NeoSergio00
