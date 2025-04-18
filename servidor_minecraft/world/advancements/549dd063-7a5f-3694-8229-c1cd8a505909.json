@@ -1212,6 +1212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-18 15:18:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_storage_cabinet": {
     "criteria": {
       "has_acacia_planks": "2025-04-18 15:01:12 +0000"
@@ -1296,6 +1302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-18 15:18:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-18 15:01:42 +0000"
@@ -1353,6 +1365,12 @@
   "securitycraft:recipes/misc/reinforced_bamboo_fence": {
     "criteria": {
       "has_stick": "2025-04-18 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-04-18 15:20:05 +0000"
     },
     "done": true
   },
@@ -1748,6 +1766,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-04-18 15:22:54 +0000",
       "minecraft:phantom": "2025-04-18 15:07:28 +0000",
       "minecraft:zombie": "2025-04-18 15:07:24 +0000"
     },
@@ -1957,6 +1976,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-04-18 15:18:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-18 15:00:09 +0000"
@@ -2008,6 +2033,12 @@
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-18 15:01:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-18 15:18:03 +0000"
     },
     "done": true
   },
@@ -2068,6 +2099,18 @@
   "decorative_blocks:recipes/building_blocks/acacia_support": {
     "criteria": {
       "has_plank": "2025-04-18 15:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-18 15:18:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-18 15:18:03 +0000"
     },
     "done": true
   },

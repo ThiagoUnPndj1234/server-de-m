@@ -5971,3 +5971,69 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 15:18:34.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> otia
 [18Apr2025 15:18:45.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> no
 [18Apr2025 15:18:51.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> se consigue con las pendecoins
+[18Apr2025 15:19:04.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Creative Mode]
+[18Apr2025 15:19:07.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> si
+[18Apr2025 15:19:08.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> 1.20.1
+[18Apr2025 15:19:17.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> y luego mira
+[18Apr2025 15:19:18.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[18Apr2025 15:19:24.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> es un pico
+[18Apr2025 15:19:26.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 15:19:26.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 15:19:30.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> literalmente picas con el pico del pollo
+[18Apr2025 15:19:38.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> y es un pollo con zapatillas
+[18Apr2025 15:19:45.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> que se ven como las del rayo maquin
+[18Apr2025 15:20:01.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> le pregunte a un amigo mio
+[18Apr2025 15:20:08.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> bueno
+[18Apr2025 15:20:09.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> a jaime
+[18Apr2025 15:20:16.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> que me diese una idea de un pico o espada
+[18Apr2025 15:20:24.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> me digo esta idea
+[18Apr2025 15:20:31.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> es un pico que rompe cualquier cosa
+[18Apr2025 15:20:36.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> menos las indestructibles
+[18Apr2025 15:20:48.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> bedrock y las cosas esas
+[18Apr2025 15:20:54.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> y tambien quita 25 de daño
+[18Apr2025 15:20:58.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> lo del warden
+[18Apr2025 15:21:06.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> verda
+[18Apr2025 15:21:12.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> el pico quita 25 de daños
+[18Apr2025 15:22:04.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Creative Mode]
+[18Apr2025 15:22:09.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[18Apr2025 15:22:18.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> las formas para conseguir el pico son
+[18Apr2025 15:22:24.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> con un crafteo creo que imposible
+[18Apr2025 15:22:28.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> para un jugador normal
+[18Apr2025 15:22:44.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> si
+[18Apr2025 15:22:50.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> y la segunda opcion es
+[18Apr2025 15:22:59.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> con las pendecoins
+[18Apr2025 15:23:00.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Creative Mode]
+[18Apr2025 15:23:10.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> nomeacuerdo
+[18Apr2025 15:23:23.573] [Worker-Main-153/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[18Apr2025 15:23:23.590] [Worker-Main-153/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[18Apr2025 15:23:24.495] [Worker-Main-143/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[18Apr2025 15:23:43.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> los mods estan en la de server ip creo
+[18Apr2025 15:24:05.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> mira
+[18Apr2025 15:24:08.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[18Apr2025 15:24:17.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> esto esta en el spawn
+[18Apr2025 15:24:20.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> lo ise yo
+[18Apr2025 15:24:26.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 15:24:26.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 15:24:32.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Sweet Dreams]
+[18Apr2025 15:25:11.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> mira
+[18Apr2025 15:25:15.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> aqui tengo una pendecoin
+[18Apr2025 15:25:17.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> pa comprar
+[18Apr2025 15:26:04.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> no
+[18Apr2025 15:26:06.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> es de mod
+[18Apr2025 15:26:08.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> pero las misiones si
+[18Apr2025 15:26:10.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> osea
+[18Apr2025 15:26:14.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> es un mod para hacer misiones
+[18Apr2025 15:26:20.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> y yo hice las misiones
+[18Apr2025 15:26:33.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> van a haber diarias
+[18Apr2025 15:26:47.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> por ahora son la del dia 1 y una secundaria que es equiparte con full hierro
+[18Apr2025 15:27:25.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> es de mod
+[18Apr2025 15:27:38.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> es mediana de dificultad y de recompensa
+[18Apr2025 15:27:40.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> ni idea
+[18Apr2025 15:28:03.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> del dungeons arise
+[18Apr2025 15:28:34.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> hermano
+[18Apr2025 15:28:40.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> seguramente me are
+[18Apr2025 15:28:47.473] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
+[18Apr2025 15:28:47.475] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
+[18Apr2025 15:28:54.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has reached the goal [Strong or Careful]
+[18Apr2025 15:28:54.631] [Server thread/DEBUG] [tombstone/]: A new grave of the player NeoSergio00 was created at position [x:13, y:64, z:24, dim:minecraft:overworld]
+[18Apr2025 15:28:54.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Your First Grave]
