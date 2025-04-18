@@ -748,3 +748,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 11:34:26.437] [Server thread/INFO] [Jade/]: Syncing config to NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909)
 [18Apr2025 11:34:27.959] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NeoSergio00 (18)
 [18Apr2025 11:34:27.961] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[18Apr2025 11:34:29.175] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-220, y=19, z=-180}
+[18Apr2025 11:34:29.176] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-220, y=19, z=-179}
+[18Apr2025 11:36:20.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Revoked 6814 advancements from NeoSergio00]
+[18Apr2025 11:36:40.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Alex's Mobs]
+[18Apr2025 11:39:31.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Bonfire Lit]

@@ -5501,3 +5501,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 11:34:27.960] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with NeoSergio00
 [18Apr2025 11:34:27.960] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with NeoSergio00
 [18Apr2025 11:34:27.961] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[18Apr2025 11:34:29.175] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-220, y=19, z=-180}
+[18Apr2025 11:34:29.176] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-220, y=19, z=-179}
+[18Apr2025 11:35:47.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 11:35:47.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 11:36:20.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Revoked 6814 advancements from NeoSergio00]
+[18Apr2025 11:36:40.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Alex's Mobs]
+[18Apr2025 11:36:48.985] [Server thread/DEBUG] [mixin/]: Mixing swimming.FallLocationMixin from expandability-common.mixins.json into net.minecraft.world.damagesource.FallLocation
+[18Apr2025 11:39:31.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Bonfire Lit]
+[18Apr2025 11:40:47.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 11:40:47.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
