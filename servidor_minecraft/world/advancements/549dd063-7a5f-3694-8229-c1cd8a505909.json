@@ -1116,6 +1116,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-04-18 15:34:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-04-18 15:34:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-18 15:00:09 +0000"
@@ -1188,6 +1200,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-04-18 15:34:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-18 15:01:12 +0000"
@@ -1206,10 +1224,22 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_boat_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-18 15:34:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mangrove/mangrove_slab_from_mangrove_stairs_woodcutting_combine": {
     "criteria": {
       "give_recipe": "2025-04-18 15:34:03 +0000",
       "has_block": "2025-04-18 15:34:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-04-18 15:34:36 +0000"
     },
     "done": true
   },
@@ -1228,6 +1258,12 @@
   "valhelsia_furniture:recipes/decorations/lime_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-18 15:01:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-04-18 15:34:36 +0000"
     },
     "done": true
   },
@@ -1276,6 +1312,12 @@
   "valhelsia_furniture:recipes/decorations/purple_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-18 15:01:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-04-18 15:34:36 +0000"
     },
     "done": true
   },
@@ -1330,6 +1372,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-04-18 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_stairs_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-18 15:34:36 +0000"
     },
     "done": true
   },
@@ -1393,6 +1441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/chest_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-18 15:34:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-04-18 14:59:01 +0000"
@@ -1426,6 +1480,12 @@
   "valhelsia_furniture:recipes/decorations/pink_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-18 15:01:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-04-18 15:34:36 +0000"
     },
     "done": true
   },
@@ -1567,9 +1627,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/crafting_table_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-18 15:34:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 15:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-18 15:34:36 +0000"
     },
     "done": true
   },
@@ -1633,6 +1705,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_trapdoor_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-18 15:34:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-04-18 15:12:06 +0000"
@@ -1681,6 +1759,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_pressure_plate_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-18 15:34:36 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/quill": {
     "criteria": {
       "has_tag_a": "2025-04-18 15:14:04 +0000"
@@ -1696,6 +1780,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-04-18 15:12:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_button_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-18 15:34:36 +0000"
     },
     "done": true
   },
@@ -1729,6 +1819,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-04-18 15:34:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-18 15:00:09 +0000"
@@ -1738,6 +1834,12 @@
   "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-18 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-04-18 15:34:36 +0000"
     },
     "done": true
   },
@@ -1753,6 +1855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_fence_gate_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-18 15:34:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-04-18 15:07:24 +0000"
@@ -1762,6 +1870,12 @@
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 15:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-04-18 15:34:42 +0000"
     },
     "done": true
   },
@@ -1838,6 +1952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-04-18 15:34:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
     "criteria": {
       "has_stick": "2025-04-18 15:00:09 +0000"
@@ -1847,6 +1967,12 @@
   "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-18 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_sign_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-18 15:34:36 +0000"
     },
     "done": true
   },
@@ -1907,6 +2033,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-18 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-04-18 15:34:36 +0000"
     },
     "done": true
   },
@@ -1979,6 +2111,12 @@
     },
     "done": false
   },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-04-18 15:34:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-18 15:01:12 +0000"
@@ -2039,6 +2177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_planks_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-18 15:34:36 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-04-18 15:07:28 +0000"
@@ -2048,6 +2192,18 @@
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-04-18 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-04-18 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-04-18 15:34:36 +0000"
     },
     "done": true
   },
@@ -2096,6 +2252,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-04-18 15:01:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-04-18 15:34:36 +0000"
     },
     "done": true
   },
@@ -2177,6 +2339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/barrel_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-18 15:34:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-18 15:01:12 +0000"
@@ -2225,6 +2393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_door_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-18 15:34:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-04-18 15:01:42 +0000"
@@ -2258,6 +2432,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_toilet": {
     "criteria": {
       "has_acacia_planks": "2025-04-18 15:01:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-04-18 15:34:36 +0000"
     },
     "done": true
   },
@@ -2327,6 +2507,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/mangrove_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-04-18 15:34:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-04-18 15:31:50 +0000"
@@ -2336,6 +2522,12 @@
   "minecraft:recipes/woodcutting/acacia/acacia_slab_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-18 15:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_planks_from_stripped_mangrove_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-18 15:34:37 +0000"
     },
     "done": true
   },
@@ -2372,6 +2564,24 @@
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-04-18 15:18:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-04-18 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_chest_boat_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-18 15:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-18 15:34:37 +0000"
     },
     "done": true
   },
@@ -2429,6 +2639,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-04-18 15:34:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-04-18 15:02:25 +0000"
@@ -2438,6 +2654,12 @@
   "securitycraft:recipes/misc/reinforced_cherry_fence": {
     "criteria": {
       "has_stick": "2025-04-18 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/mangrove_desk_drawer": {
+    "criteria": {
+      "has_mangrove_slab": "2025-04-18 15:34:36 +0000"
     },
     "done": true
   },
@@ -2519,6 +2741,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-04-18 15:34:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_fence_gate_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-04-18 15:01:12 +0000"
@@ -2588,6 +2816,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-04-18 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_fence_from_mangrove_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-18 15:34:36 +0000"
     },
     "done": true
   },
