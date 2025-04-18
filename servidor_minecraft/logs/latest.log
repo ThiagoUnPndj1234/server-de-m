@@ -763,3 +763,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 12:26:05.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set display slot belowName to show objective Muertes]
 [18Apr2025 12:26:29.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Removed objective [Muertes]]
 [18Apr2025 12:26:45.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Created new objective [Muertes]]
+[18Apr2025 12:28:37.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Created new objective [Vida]]
+[18Apr2025 12:28:53.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set display slot sidebar to show objective Vida]
+[18Apr2025 12:28:58.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[18Apr2025 12:30:25.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Removed objective [Vida]]
+[18Apr2025 12:30:32.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Created new objective [a]]
+[18Apr2025 12:30:51.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set display slot belowName to show objective a]
+[18Apr2025 12:31:17.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set display slot list to show objective a]
+[18Apr2025 12:31:27.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set display slot sidebar to show objective Muertes]
+[18Apr2025 12:33:53.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Creative Mode]
+[18Apr2025 12:34:44.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[18Apr2025 12:36:24.736] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-246, y=10, z=-79}
+[18Apr2025 12:37:05.213] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=right_2,waterlogged=false] but failed at location BlockPos{x=-134, y=36, z=481}
+[18Apr2025 12:37:05.214] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=left_1,waterlogged=false] but failed at location BlockPos{x=-136, y=35, z=481}
+[18Apr2025 12:37:05.214] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=middle_2,waterlogged=false] but failed at location BlockPos{x=-135, y=36, z=481}
+[18Apr2025 12:37:05.214] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=right_3,waterlogged=false] but failed at location BlockPos{x=-134, y=37, z=481}
+[18Apr2025 12:37:05.214] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=left_2,waterlogged=false] but failed at location BlockPos{x=-136, y=36, z=481}
+[18Apr2025 12:37:05.215] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=middle_3,waterlogged=false] but failed at location BlockPos{x=-135, y=37, z=481}
+[18Apr2025 12:37:05.215] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=right_4,waterlogged=false] but failed at location BlockPos{x=-134, y=38, z=481}
+[18Apr2025 12:37:05.215] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=left_3,waterlogged=false] but failed at location BlockPos{x=-136, y=37, z=481}
+[18Apr2025 12:37:05.215] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=middle_4,waterlogged=false] but failed at location BlockPos{x=-135, y=38, z=481}
+[18Apr2025 12:37:05.215] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=left_4,waterlogged=false] but failed at location BlockPos{x=-136, y=38, z=481}
+[18Apr2025 12:37:05.215] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=right_1,waterlogged=false] but failed at location BlockPos{x=-134, y=35, z=481}
+[18Apr2025 12:37:18.267] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeoSergio00 lost connection: Disconnected
+[18Apr2025 12:37:18.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 left the game
+[18Apr2025 12:37:18.272] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NeoSergio00
