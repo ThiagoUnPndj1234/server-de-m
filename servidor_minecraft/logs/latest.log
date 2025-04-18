@@ -1789,3 +1789,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [18Apr2025 23:01:14.307] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/29181, l='ServerLevel[world]', x=670.50, y=73.00, z=777.49] died, message: 'Fisherman discovered the floor was lava'
 [18Apr2025 23:03:31.905] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/29214, l='ServerLevel[world]', x=670.49, y=73.00, z=777.50] died, message: 'Fisherman discovered the floor was lava'
 [18Apr2025 23:03:36.303] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/29220, l='ServerLevel[world]', x=672.51, y=73.00, z=776.51] died, message: 'Fisherman discovered the floor was lava'
+[18Apr2025 23:11:42.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[18Apr2025 23:11:45.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 23:11:48.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[18Apr2025 23:11:53.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 23:15:29.606] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/29231, l='ServerLevel[world]', x=671.49, y=73.00, z=777.51] died, message: 'Fisherman discovered the floor was lava'
+[18Apr2025 23:16:51.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[18Apr2025 23:17:47.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 23:17:52.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[18Apr2025 23:17:54.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 23:18:14.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[18Apr2025 23:18:17.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[18Apr2025 23:20:00.153] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/29204, l='ServerLevel[world]', x=671.51, y=73.00, z=776.51] died, message: 'Fisherman discovered the floor was lava'
