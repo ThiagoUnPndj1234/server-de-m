@@ -21,6 +21,7 @@
 				type: "item"
 			}
 		]
+		subtitle: "Consigue Un Pico de diamante y mejora tu mochila a hierro"
 		tasks: [
 			{
 				id: "4E39CAF9CD546918"
@@ -39,6 +40,7 @@
 				type: "item"
 			}
 		]
+		title: "Dia 2 Mejores Mejoras"
 		x: -0.5d
 		y: -0.5d
 	}]
