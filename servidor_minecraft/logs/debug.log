@@ -5571,3 +5571,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [19Apr2025 09:08:36.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 left the game
 [19Apr2025 09:08:36.115] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of NeoSergio00
 [19Apr2025 09:08:36.116] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NeoSergio00
+[19Apr2025 09:10:37.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Apr2025 09:10:37.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Apr2025 09:15:37.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Apr2025 09:15:37.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
