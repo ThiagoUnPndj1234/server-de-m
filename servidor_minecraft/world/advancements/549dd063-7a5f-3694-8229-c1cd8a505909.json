@@ -25,11 +25,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:wooded_badlands": "2025-04-19 08:39:13 +0000",
       "minecraft:beach": "2025-04-18 16:17:44 +0000",
       "minecraft:mangrove_swamp": "2025-04-18 16:16:49 +0000",
       "minecraft:river": "2025-04-18 12:37:01 +0000",
       "minecraft:swamp": "2025-04-18 16:16:45 +0000",
       "minecraft:forest": "2025-04-18 16:05:13 +0000",
+      "minecraft:lush_caves": "2025-04-19 08:35:53 +0000",
       "minecraft:desert": "2025-04-18 21:56:01 +0000",
       "minecraft:windswept_savanna": "2025-04-18 16:16:12 +0000",
       "minecraft:warm_ocean": "2025-04-18 21:56:02 +0000",
@@ -6597,6 +6599,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-04-19 08:35:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-19 08:45:32 +0000"
     },
     "done": true
   },
