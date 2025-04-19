@@ -2264,6 +2264,7 @@
       "minecraft:phantom": "2025-04-18 15:07:28 +0000",
       "minecraft:witch": "2025-04-18 16:20:31 +0000",
       "minecraft:husk": "2025-04-18 15:29:22 +0000",
+      "minecraft:cave_spider": "2025-04-19 08:49:10 +0000",
       "minecraft:stray": "2025-04-18 16:37:56 +0000",
       "minecraft:zombie": "2025-04-18 15:07:24 +0000"
     },
@@ -6578,6 +6579,24 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-04-19 08:51:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "interact": "2025-04-19 08:46:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/big_orange_glazed_jar": {
+    "criteria": {
+      "has_orange_terracotta": "2025-04-19 08:52:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-04-19 08:33:37 +0000"
@@ -6590,9 +6609,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-04-19 08:52:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/orange_glazed_jar": {
+    "criteria": {
+      "has_orange_terracotta": "2025-04-19 08:52:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-04-19 08:52:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-04-19 08:35:20 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/pot": {
+    "criteria": {
+      "has_terracotta": "2025-04-19 08:52:46 +0000"
     },
     "done": true
   },
@@ -6608,15 +6651,39 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-19 08:48:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/big_blue_glazed_jar": {
+    "criteria": {
+      "has_blue_terracotta": "2025-04-19 08:52:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_chestplate": "2025-04-19 08:34:03 +0000"
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/blue_glazed_jar": {
+    "criteria": {
+      "has_blue_terracotta": "2025-04-19 08:52:46 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
       "location0": "2025-04-19 08:33:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-04-19 08:45:51 +0000"
     },
     "done": true
   },
