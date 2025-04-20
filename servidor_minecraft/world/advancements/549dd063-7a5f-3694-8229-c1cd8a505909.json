@@ -6579,21 +6579,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/guster": {
+  "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
-      "killed_by": "2025-04-19 08:51:54 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/kangaroo": {
-    "criteria": {
-      "interact": "2025-04-19 08:46:50 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/big_orange_glazed_jar": {
-    "criteria": {
-      "has_orange_terracotta": "2025-04-19 08:52:46 +0000"
+      "location0": "2025-04-19 08:33:20 +0000"
     },
     "done": true
   },
@@ -6606,6 +6594,60 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2025-04-19 08:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-04-19 08:34:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-19 08:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-19 08:35:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-19 08:45:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-04-19 08:45:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "interact": "2025-04-19 08:46:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-19 08:48:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-04-19 08:51:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/big_orange_glazed_jar": {
+    "criteria": {
+      "has_orange_terracotta": "2025-04-19 08:52:46 +0000"
     },
     "done": true
   },
@@ -6627,39 +6669,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-04-19 08:35:20 +0000"
-    },
-    "done": true
-  },
   "ecologics:recipes/ecologics/pot": {
     "criteria": {
       "has_terracotta": "2025-04-19 08:52:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-04-19 08:35:20 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-04-19 08:45:32 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_umvuthi": {
-    "criteria": {
-      "barako": "2025-04-19 09:06:21 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2025-04-19 08:48:35 +0000"
     },
     "done": true
   },
@@ -6669,27 +6681,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_chestplate": "2025-04-19 08:34:03 +0000"
-    },
-    "done": true
-  },
   "valhelsia_structures:recipes/decorations/blue_glazed_jar": {
     "criteria": {
       "has_blue_terracotta": "2025-04-19 08:52:46 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_heavenly_conqueror": {
+  "mowziesmobs:kill_umvuthi": {
     "criteria": {
-      "location0": "2025-04-19 08:33:20 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_owner_changer": {
-    "criteria": {
-      "has_name_tag": "2025-04-19 08:45:51 +0000"
+      "barako": "2025-04-19 09:06:21 +0000"
     },
     "done": true
   },
