@@ -10681,3 +10681,596 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [20Apr2025 16:58:38.259] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of NeoSergio00 to connected: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
 [20Apr2025 16:58:38.259] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
 [20Apr2025 16:58:38.319] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 16:59:01.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 16:59:01.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 16:59:01.273] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to NeoSergio00
+[20Apr2025 16:59:01.273] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with NeoSergio00
+[20Apr2025 16:59:01.273] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with NeoSergio00
+[20Apr2025 16:59:01.273] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 16:59:01.273] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 16:59:01.274] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 549dd063-7a5f-3694-8229-c1cd8a505909 to disconnected: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 16:59:01.276] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 16:59:02.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 16:59:02.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 16:59:02.282] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Rick_sis
+[20Apr2025 16:59:02.282] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Rick_sis
+[20Apr2025 16:59:02.282] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Rick_sis
+[20Apr2025 16:59:02.282] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 16:59:02.282] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 88a19825-506e-3aed-9b25-41804e02dfa0 to disconnected: {disabled=false, disconnected=true, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 16:59:02.373] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 16:59:02.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 16:59:03.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 16:59:03.375] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Rick_sis to connected: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 16:59:03.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 16:59:03.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 16:59:03.376] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of NeoSergio00 to connected: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 16:59:03.376] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 16:59:03.428] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 16:59:03.431] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 16:59:36.465] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 16:59:36.466] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 16:59:36.466] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to NeoSergio00
+[20Apr2025 16:59:36.466] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with NeoSergio00
+[20Apr2025 16:59:36.466] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with NeoSergio00
+[20Apr2025 16:59:36.466] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 16:59:36.467] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 549dd063-7a5f-3694-8229-c1cd8a505909 to disconnected: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 16:59:36.467] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 16:59:36.467] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 16:59:36.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 16:59:37.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 16:59:37.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 16:59:37.472] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Rick_sis
+[20Apr2025 16:59:37.472] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Rick_sis
+[20Apr2025 16:59:37.472] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Rick_sis
+[20Apr2025 16:59:37.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 16:59:37.472] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 88a19825-506e-3aed-9b25-41804e02dfa0 to disconnected: {disabled=false, disconnected=true, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 16:59:37.579] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 16:59:38.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 16:59:38.588] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Rick_sis to connected: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 16:59:38.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 16:59:38.638] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:00:01.584] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:00:02.594] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:00:02.595] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:00:02.595] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Rick_sis
+[20Apr2025 17:00:02.595] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Rick_sis
+[20Apr2025 17:00:02.595] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Rick_sis
+[20Apr2025 17:00:02.595] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:00:02.595] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 88a19825-506e-3aed-9b25-41804e02dfa0 to disconnected: {disabled=false, disconnected=true, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:00:02.671] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:00:04.699] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:00:04.699] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of NeoSergio00 to connected: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:00:04.699] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:00:04.769] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:00:12.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[20Apr2025 17:00:15.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[20Apr2025 17:00:26.888] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:00:27.991] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:00:31.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> hermano esperate
+[20Apr2025 17:00:31.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:00:31.708] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Rick_sis to connected: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:00:31.708] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:00:31.770] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:00:33.215] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:00:33.917] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:00:34.616] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:00:35.268] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:00:35.918] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:00:36.519] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:00:37.017] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:00:37.431] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:00:37.768] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:00:37.787] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:00:38.015] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:00:38.415] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:00:38.772] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:00:38.772] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:00:38.773] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to NeoSergio00
+[20Apr2025 17:00:38.773] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with NeoSergio00
+[20Apr2025 17:00:38.773] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with NeoSergio00
+[20Apr2025 17:00:38.773] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:00:38.774] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:00:38.774] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 549dd063-7a5f-3694-8229-c1cd8a505909 to disconnected: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:00:38.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:00:39.121] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:00:39.474] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:00:39.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:00:39.914] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of NeoSergio00 to connected: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:00:39.914] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:00:39.981] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:00:46.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> ponle esto a tu pipa
+[20Apr2025 17:00:53.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> a no
+[20Apr2025 17:00:57.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> esto no va para la pipa
+[20Apr2025 17:01:01.895] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:01:01.899] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:01:01.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:01:01.900] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to NeoSergio00
+[20Apr2025 17:01:01.900] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with NeoSergio00
+[20Apr2025 17:01:01.900] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with NeoSergio00
+[20Apr2025 17:01:01.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:01:01.901] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 549dd063-7a5f-3694-8229-c1cd8a505909 to disconnected: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:01:01.920] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:01:02.042] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:01:02.908] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:01:02.908] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:01:02.908] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Rick_sis
+[20Apr2025 17:01:02.908] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Rick_sis
+[20Apr2025 17:01:02.909] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Rick_sis
+[20Apr2025 17:01:02.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:01:02.909] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 88a19825-506e-3aed-9b25-41804e02dfa0 to disconnected: {disabled=false, disconnected=true, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:01:02.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:01:03.043] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:01:03.043] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of NeoSergio00 to connected: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:01:03.043] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:01:03.116] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:01:03.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:01:03.986] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Rick_sis to connected: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:01:03.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:01:04.071] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:01:11.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Spectator Mode]
+[20Apr2025 17:01:12.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 17:01:12.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 17:01:14.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[20Apr2025 17:01:16.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> va porque se lo has puesto en crea
+[20Apr2025 17:01:21.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Teleported NeoSergio00 to Rick_sis]
+[20Apr2025 17:01:21.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> en survi no puedes creo
+[20Apr2025 17:01:23.671] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:01:24.116] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:01:30.520] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:01:31.320] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:01:34.017] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:01:34.967] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:01:35.489] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:01:36.077] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:01:36.616] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:01:37.118] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:01:37.617] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:01:38.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:01:38.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:01:38.111] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to NeoSergio00
+[20Apr2025 17:01:38.111] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with NeoSergio00
+[20Apr2025 17:01:38.111] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with NeoSergio00
+[20Apr2025 17:01:38.111] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:01:38.111] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 549dd063-7a5f-3694-8229-c1cd8a505909 to disconnected: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:01:38.115] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:01:38.115] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:01:38.115] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:01:38.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:01:39.111] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:01:39.111] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:01:39.111] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Rick_sis
+[20Apr2025 17:01:39.111] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Rick_sis
+[20Apr2025 17:01:39.111] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Rick_sis
+[20Apr2025 17:01:39.112] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:01:39.112] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 88a19825-506e-3aed-9b25-41804e02dfa0 to disconnected: {disabled=false, disconnected=true, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:01:39.119] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:01:39.231] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:01:39.469] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:01:39.480] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:01:39.480] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of NeoSergio00 to connected: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:01:39.481] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:01:39.584] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:01:39.916] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:01:40.232] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:01:40.232] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Rick_sis to connected: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:01:40.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:01:40.268] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:01:40.317] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:01:40.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> mira esto
+[20Apr2025 17:01:44.570] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:01:56.316] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:01:58.379] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:01:59.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2727ms or 54 ticks behind
+[20Apr2025 17:01:59.176] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:01:59.396] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:00.411] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:01.053] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=1160, y=-50, z=891} at Barrel with:minecraft:chests/simple_dungeon
+[20Apr2025 17:02:01.472] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:01.484] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:01.494] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:01.497] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:01.564] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:02.228] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:02:02.247] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:02:02.726] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:03.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:02:03.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:02:03.234] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Rick_sis
+[20Apr2025 17:02:03.234] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Rick_sis
+[20Apr2025 17:02:03.234] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Rick_sis
+[20Apr2025 17:02:03.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:02:03.234] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 88a19825-506e-3aed-9b25-41804e02dfa0 to disconnected: {disabled=false, disconnected=true, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:02:03.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:02:03.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:02:03.235] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to NeoSergio00
+[20Apr2025 17:02:03.235] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with NeoSergio00
+[20Apr2025 17:02:03.235] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with NeoSergio00
+[20Apr2025 17:02:03.235] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:02:03.235] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 549dd063-7a5f-3694-8229-c1cd8a505909 to disconnected: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:02:03.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:02:03.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:02:03.970] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:04.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:02:04.386] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Rick_sis to connected: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:02:04.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:02:04.474] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:02:04.515] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:04.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:02:04.605] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of NeoSergio00 to connected: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:02:04.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:02:04.971] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:05.418] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:05.668] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:02:06.319] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:06.615] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:07.018] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:07.325] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:07.883] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:11.389] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:12.069] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:12.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> hermano la pistola causa lag en el server
+[20Apr2025 17:02:12.818] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:13.673] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundHitscanPacket
+[20Apr2025 17:02:14.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> creo
+[20Apr2025 17:02:38.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:02:38.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:02:38.408] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to NeoSergio00
+[20Apr2025 17:02:38.408] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with NeoSergio00
+[20Apr2025 17:02:38.409] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with NeoSergio00
+[20Apr2025 17:02:38.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:02:38.409] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 549dd063-7a5f-3694-8229-c1cd8a505909 to disconnected: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:02:38.416] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:02:38.416] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:02:38.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:02:39.413] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:02:39.413] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:02:39.413] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Rick_sis
+[20Apr2025 17:02:39.413] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Rick_sis
+[20Apr2025 17:02:39.413] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Rick_sis
+[20Apr2025 17:02:39.413] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:02:39.414] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 88a19825-506e-3aed-9b25-41804e02dfa0 to disconnected: {disabled=false, disconnected=true, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:02:39.519] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:02:39.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:02:39.538] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of NeoSergio00 to connected: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:02:39.538] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:02:39.593] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:02:40.518] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:02:40.519] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Rick_sis to connected: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:02:40.519] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:02:40.569] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:03:02.532] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:03:02.532] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:03:02.541] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:03:02.541] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:03:02.541] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Rick_sis
+[20Apr2025 17:03:02.541] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Rick_sis
+[20Apr2025 17:03:02.541] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Rick_sis
+[20Apr2025 17:03:02.541] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:03:02.542] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 88a19825-506e-3aed-9b25-41804e02dfa0 to disconnected: {disabled=false, disconnected=true, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:03:02.542] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:03:02.542] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:03:02.542] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to NeoSergio00
+[20Apr2025 17:03:02.542] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with NeoSergio00
+[20Apr2025 17:03:02.542] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with NeoSergio00
+[20Apr2025 17:03:02.542] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:03:02.542] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 549dd063-7a5f-3694-8229-c1cd8a505909 to disconnected: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:03:02.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:03:02.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:03:03.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:03:03.657] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Rick_sis to connected: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:03:03.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:03:03.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:03:03.704] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of NeoSergio00 to connected: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:03:03.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:03:03.722] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:03:03.771] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:03:15.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
+[20Apr2025 17:03:26.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> dio
+[20Apr2025 17:03:38.718] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:03:38.722] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:03:38.726] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:03:38.726] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:03:38.727] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to NeoSergio00
+[20Apr2025 17:03:38.727] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with NeoSergio00
+[20Apr2025 17:03:38.727] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with NeoSergio00
+[20Apr2025 17:03:38.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:03:38.727] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 549dd063-7a5f-3694-8229-c1cd8a505909 to disconnected: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:03:38.992] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:03:39.728] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:03:39.729] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:03:39.729] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Rick_sis
+[20Apr2025 17:03:39.729] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Rick_sis
+[20Apr2025 17:03:39.729] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Rick_sis
+[20Apr2025 17:03:39.729] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:03:39.729] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 88a19825-506e-3aed-9b25-41804e02dfa0 to disconnected: {disabled=false, disconnected=true, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:03:39.812] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:03:39.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:03:39.993] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of NeoSergio00 to connected: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:03:39.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:03:40.068] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:03:40.815] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:03:40.815] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Rick_sis to connected: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:03:40.815] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:03:40.868] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:03:43.473] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
+[20Apr2025 17:03:43.483] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
+[20Apr2025 17:04:00.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> jaime
+[20Apr2025 17:04:02.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> ponte en survi
+[20Apr2025 17:04:02.848] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:04:02.848] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:04:02.848] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:04:02.849] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:04:02.849] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to NeoSergio00
+[20Apr2025 17:04:02.849] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with NeoSergio00
+[20Apr2025 17:04:02.849] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with NeoSergio00
+[20Apr2025 17:04:02.849] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:04:02.849] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 549dd063-7a5f-3694-8229-c1cd8a505909 to disconnected: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:04:02.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:04:03.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:04:03.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:04:03.856] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Rick_sis
+[20Apr2025 17:04:03.856] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Rick_sis
+[20Apr2025 17:04:03.856] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Rick_sis
+[20Apr2025 17:04:03.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:04:03.857] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 88a19825-506e-3aed-9b25-41804e02dfa0 to disconnected: {disabled=false, disconnected=true, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:04:03.931] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:04:03.931] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of NeoSergio00 to connected: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:04:03.932] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:04:03.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:04:03.988] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:04:04.976] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:04:04.976] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Rick_sis to connected: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:04:04.976] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:04:05.078] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:04:05.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[20Apr2025 17:04:09.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> quiero probar frostibai
+[20Apr2025 17:04:17.921] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
+[20Apr2025 17:04:17.924] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
+[20Apr2025 17:04:20.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> u
+[20Apr2025 17:04:32.678] [Server thread/DEBUG] [tombstone/]: A new grave of the player NeoSergio00 was created at position [x:668, y:73, z:787, dim:minecraft:overworld]
+[20Apr2025 17:04:39.026] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:04:39.026] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:04:40.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:04:40.019] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:04:40.019] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Rick_sis
+[20Apr2025 17:04:40.019] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Rick_sis
+[20Apr2025 17:04:40.019] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Rick_sis
+[20Apr2025 17:04:40.019] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:04:40.019] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 88a19825-506e-3aed-9b25-41804e02dfa0 to disconnected: {disabled=false, disconnected=true, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:04:40.019] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:04:40.019] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:04:40.020] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to NeoSergio00
+[20Apr2025 17:04:40.020] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with NeoSergio00
+[20Apr2025 17:04:40.020] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with NeoSergio00
+[20Apr2025 17:04:40.020] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:04:40.020] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 549dd063-7a5f-3694-8229-c1cd8a505909 to disconnected: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:04:40.124] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:04:40.369] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:04:41.125] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:04:41.125] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Rick_sis to connected: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:04:41.125] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:04:41.177] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:04:41.368] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:04:41.368] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of NeoSergio00 to connected: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:04:41.368] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:04:41.424] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:04:56.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> tio jaime estas petando el server
+[20Apr2025 17:05:02.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> nose
+[20Apr2025 17:05:03.136] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:05:03.136] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:05:03.150] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:05:03.150] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:05:03.150] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Rick_sis
+[20Apr2025 17:05:03.151] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Rick_sis
+[20Apr2025 17:05:03.151] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Rick_sis
+[20Apr2025 17:05:03.151] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:05:03.151] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 88a19825-506e-3aed-9b25-41804e02dfa0 to disconnected: {disabled=false, disconnected=true, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:05:03.151] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:05:03.151] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:05:03.152] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to NeoSergio00
+[20Apr2025 17:05:03.152] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with NeoSergio00
+[20Apr2025 17:05:03.152] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with NeoSergio00
+[20Apr2025 17:05:03.152] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:05:03.153] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 549dd063-7a5f-3694-8229-c1cd8a505909 to disconnected: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:05:03.294] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:05:03.377] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:05:04.292] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:05:04.292] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Rick_sis to connected: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:05:04.292] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:05:04.367] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:05:04.379] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:05:04.379] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of NeoSergio00 to connected: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:05:04.379] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:05:04.434] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:05:11.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> pero se me esta llegando a petar
+[20Apr2025 17:05:27.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> puede
+[20Apr2025 17:05:39.306] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:05:39.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:05:39.307] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to NeoSergio00
+[20Apr2025 17:05:39.307] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with NeoSergio00
+[20Apr2025 17:05:39.307] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with NeoSergio00
+[20Apr2025 17:05:39.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:05:39.307] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 549dd063-7a5f-3694-8229-c1cd8a505909 to disconnected: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:05:39.321] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:05:39.321] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:05:39.519] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:05:40.315] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:05:40.315] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:05:40.316] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Rick_sis
+[20Apr2025 17:05:40.316] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Rick_sis
+[20Apr2025 17:05:40.316] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Rick_sis
+[20Apr2025 17:05:40.316] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:05:40.316] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 88a19825-506e-3aed-9b25-41804e02dfa0 to disconnected: {disabled=false, disconnected=true, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:05:40.421] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:05:40.520] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:05:40.520] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of NeoSergio00 to connected: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:05:40.521] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:05:40.575] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:05:41.418] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:05:41.418] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Rick_sis to connected: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:05:41.418] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:05:41.473] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:05:48.389] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (564 | 46 | 1156).
+[20Apr2025 17:05:48.390] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[20Apr2025 17:05:48.392] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 4(0) Rooms
+[20Apr2025 17:05:48.392] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[20Apr2025 17:05:48.393] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 6(0) Rooms
+[20Apr2025 17:05:48.393] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[20Apr2025 17:05:48.393] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 11(0) Nodes and 4(0) Rooms
+[20Apr2025 17:05:48.393] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[20Apr2025 17:05:48.393] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 8(2) Nodes and 5(0) Rooms
+[20Apr2025 17:05:48.393] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[20Apr2025 17:05:48.394] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 8(0) Nodes and 6(0) Rooms
+[20Apr2025 17:06:03.463] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:06:03.463] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:06:03.463] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to NeoSergio00
+[20Apr2025 17:06:03.463] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with NeoSergio00
+[20Apr2025 17:06:03.463] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with NeoSergio00
+[20Apr2025 17:06:03.463] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:06:03.464] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 549dd063-7a5f-3694-8229-c1cd8a505909 to disconnected: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:06:03.472] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:06:03.472] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:06:03.573] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:06:04.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:06:04.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:06:04.472] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Rick_sis
+[20Apr2025 17:06:04.472] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Rick_sis
+[20Apr2025 17:06:04.472] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Rick_sis
+[20Apr2025 17:06:04.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:06:04.472] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 88a19825-506e-3aed-9b25-41804e02dfa0 to disconnected: {disabled=false, disconnected=true, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:06:04.570] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:06:04.574] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:06:04.574] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of NeoSergio00 to connected: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:06:04.574] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:06:04.638] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:06:05.571] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:06:05.571] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Rick_sis to connected: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:06:05.571] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:06:05.624] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:06:15.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 17:06:15.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 17:06:39.621] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:06:39.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:06:39.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:06:39.628] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:06:39.628] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to NeoSergio00
+[20Apr2025 17:06:39.628] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with NeoSergio00
+[20Apr2025 17:06:39.628] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with NeoSergio00
+[20Apr2025 17:06:39.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:06:39.629] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 549dd063-7a5f-3694-8229-c1cd8a505909 to disconnected: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:06:39.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:06:40.637] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:06:40.638] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:06:40.638] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Rick_sis
+[20Apr2025 17:06:40.638] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Rick_sis
+[20Apr2025 17:06:40.638] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Rick_sis
+[20Apr2025 17:06:40.638] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:06:40.638] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 88a19825-506e-3aed-9b25-41804e02dfa0 to disconnected: {disabled=false, disconnected=true, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:06:40.794] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:06:40.893] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:06:40.894] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of NeoSergio00 to connected: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:06:40.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:06:40.971] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:06:41.798] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:06:41.800] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Rick_sis to connected: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:06:41.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:06:41.884] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:06:45.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[20Apr2025 17:07:03.749] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:07:03.770] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:07:03.774] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:07:03.774] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:07:03.774] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Rick_sis
+[20Apr2025 17:07:03.774] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Rick_sis
+[20Apr2025 17:07:03.774] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Rick_sis
+[20Apr2025 17:07:03.774] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:07:03.774] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 88a19825-506e-3aed-9b25-41804e02dfa0 to disconnected: {disabled=false, disconnected=true, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:07:03.774] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:07:03.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:07:03.775] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to NeoSergio00
+[20Apr2025 17:07:03.775] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with NeoSergio00
+[20Apr2025 17:07:03.775] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with NeoSergio00
+[20Apr2025 17:07:03.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:07:03.775] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 549dd063-7a5f-3694-8229-c1cd8a505909 to disconnected: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:07:03.862] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:07:03.936] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:07:04.862] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:07:04.862] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Rick_sis to connected: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:07:04.862] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:07:04.920] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:07:04.937] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:07:04.937] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of NeoSergio00 to connected: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:07:04.937] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:07:05.995] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:07:07.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeoSergio00 moved wrongly!
+[20Apr2025 17:07:12.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeoSergio00 moved wrongly!
+[20Apr2025 17:07:18.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeoSergio00 moved wrongly!
+[20Apr2025 17:07:24.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeoSergio00 moved wrongly!
+[20Apr2025 17:07:30.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeoSergio00 moved wrongly!
+[20Apr2025 17:07:39.978] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:07:39.978] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:07:39.992] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:07:39.992] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:07:39.992] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Rick_sis
+[20Apr2025 17:07:39.992] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Rick_sis
+[20Apr2025 17:07:39.992] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Rick_sis
+[20Apr2025 17:07:39.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:07:39.993] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 88a19825-506e-3aed-9b25-41804e02dfa0 to disconnected: {disabled=false, disconnected=true, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:07:39.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:07:39.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:07:39.993] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to NeoSergio00
+[20Apr2025 17:07:39.993] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with NeoSergio00
+[20Apr2025 17:07:39.993] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with NeoSergio00
+[20Apr2025 17:07:39.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:07:39.993] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 549dd063-7a5f-3694-8229-c1cd8a505909 to disconnected: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:07:40.074] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:07:40.121] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:07:41.078] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:07:41.078] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Rick_sis to connected: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:07:41.078] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:07:41.121] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:07:41.122] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of NeoSergio00 to connected: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:07:41.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:07:41.133] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:07:41.175] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:08:04.133] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:08:04.138] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:08:04.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:08:04.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:08:04.143] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to NeoSergio00
+[20Apr2025 17:08:04.144] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with NeoSergio00
+[20Apr2025 17:08:04.144] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with NeoSergio00
+[20Apr2025 17:08:04.144] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:08:04.144] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 549dd063-7a5f-3694-8229-c1cd8a505909 to disconnected: {disabled=false, disconnected=true, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:08:04.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:08:05.148] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:08:05.148] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:08:05.148] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Rick_sis
+[20Apr2025 17:08:05.148] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Rick_sis
+[20Apr2025 17:08:05.148] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Rick_sis
+[20Apr2025 17:08:05.148] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:08:05.149] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 88a19825-506e-3aed-9b25-41804e02dfa0 to disconnected: {disabled=false, disconnected=true, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:08:05.310] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:08:06.309] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:08:06.309] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Rick_sis to connected: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:08:06.309] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:08:06.369] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:08:15.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NeoSergio00> afk
+[20Apr2025 17:08:18.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Spectator Mode]
+[20Apr2025 17:08:40.338] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:08:41.330] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:08:41.331] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of NeoSergio00 to connected: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:08:41.331] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:08:41.331] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:08:41.331] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:08:41.331] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Rick_sis
+[20Apr2025 17:08:41.331] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Rick_sis
+[20Apr2025 17:08:41.331] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Rick_sis
+[20Apr2025 17:08:41.331] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:08:41.332] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 88a19825-506e-3aed-9b25-41804e02dfa0 to disconnected: {disabled=false, disconnected=true, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:08:41.389] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NeoSergio00: {disabled=false, disconnected=false, uuid=549dd063-7a5f-3694-8229-c1cd8a505909, name=NeoSergio00, group=null}
+[20Apr2025 17:08:41.420] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:08:42.425] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:08:42.425] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Rick_sis to connected: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
+[20Apr2025 17:08:42.425] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:08:42.480] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Rick_sis: {disabled=false, disconnected=false, uuid=88a19825-506e-3aed-9b25-41804e02dfa0, name=Rick_sis, group=null}
