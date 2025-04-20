@@ -6693,6 +6693,18 @@
     },
     "done": true
   },
+  "sons_of_sins:original_sin": {
+    "criteria": {
+      "original_sin_0": "2025-04-20 17:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-20 17:20:25 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/vanishing": {
     "criteria": {
       "coded_trigger": "2025-04-20 16:56:23 +0000"

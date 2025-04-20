@@ -1806,3 +1806,219 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [20Apr2025 17:19:08.609] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
 [20Apr2025 17:19:08.609] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
 [20Apr2025 17:19:08.750] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:19:24.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Lazarus Pit]
+[20Apr2025 17:19:30.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[20Apr2025 17:19:36.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[20Apr2025 17:19:38.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[20Apr2025 17:19:44.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[20Apr2025 17:19:46.767] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:19:46.768] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:19:46.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:19:46.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:20:08.881] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:20:08.881] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:20:08.882] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:20:09.889] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:20:09.889] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:20:09.890] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:20:09.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:20:10.171] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:20:10.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:20:10.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:20:11.171] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:20:11.171] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:20:25.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has reached the goal [It's...Alive?]
+[20Apr2025 17:20:25.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 has made the advancement [Best Friends Forever]
+[20Apr2025 17:20:47.057] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:20:47.057] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:20:47.057] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:20:47.296] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:20:48.060] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:20:48.060] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:20:48.061] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:20:48.196] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:20:49.198] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:20:49.198] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:21:05.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[20Apr2025 17:21:05.380] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:21:05.381] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:21:10.185] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:21:10.186] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:21:10.186] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:21:10.284] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:21:11.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:21:11.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:21:34.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[20Apr2025 17:21:48.406] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:21:48.406] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:21:48.406] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:21:48.406] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:21:48.407] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:21:48.407] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:21:48.482] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:21:48.556] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:22:03.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Creative Mode]
+[20Apr2025 17:22:07.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:22:07.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:22:07.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:22:07.606] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:22:45.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[20Apr2025 17:22:47.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:22:47.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:22:47.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:22:47.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:22:47.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:22:47.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:22:47.878] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:22:48.060] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:22:48.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:22:48.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:22:49.061] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:22:49.061] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:23:09.904] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:23:09.904] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:23:09.904] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:23:09.904] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:23:09.905] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:23:09.905] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:23:09.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:23:10.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:23:10.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:23:10.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:23:11.015] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:23:11.015] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:23:11.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[20Apr2025 17:23:21.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[20Apr2025 17:23:39.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rick_sis has made the advancement [Sky of Beginning]
+[20Apr2025 17:23:48.149] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:23:48.149] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:23:48.149] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:23:48.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:23:49.151] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:23:49.152] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:23:49.152] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:23:49.235] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:23:49.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:23:49.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:23:50.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:23:50.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:24:00.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[20Apr2025 17:24:04.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Creative Mode]
+[20Apr2025 17:24:10.258] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:24:10.258] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:24:10.259] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:24:10.259] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:24:10.259] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:24:10.259] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:24:10.369] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:24:10.454] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:24:51.429] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:24:51.429] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:24:51.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:24:51.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:24:59.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[20Apr2025 17:25:11.580] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:25:11.580] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:25:11.581] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:25:11.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:25:12.583] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:25:12.583] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:25:12.584] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:25:12.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:25:12.719] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:25:12.720] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:25:13.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:25:13.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:25:14.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Set own game mode to Survival Mode]
+[20Apr2025 17:25:49.830] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:25:49.830] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:25:49.830] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:25:49.831] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:25:49.831] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:25:49.831] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:25:49.918] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:25:49.925] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:25:50.919] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:25:50.919] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:25:50.950] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:25:50.950] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:26:11.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:26:11.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:26:11.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:26:12.075] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:26:12.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:26:12.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:26:12.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:26:13.075] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:26:13.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:26:13.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:26:14.075] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:26:14.075] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:26:14.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[20Apr2025 17:26:17.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[20Apr2025 17:26:37.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[20Apr2025 17:26:51.149] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:26:51.150] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:26:51.150] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:26:51.526] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:26:52.150] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:26:52.150] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:26:52.150] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:26:52.249] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:26:52.526] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:26:52.526] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:26:53.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:26:53.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:27:13.280] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:27:13.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:27:13.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:27:13.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:27:13.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:27:13.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:27:13.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:27:13.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:27:14.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:27:14.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:27:14.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:27:14.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:27:36.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Removed every effect from NeoSergio00]
+[20Apr2025 17:27:41.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Survival Mode]
+[20Apr2025 17:27:52.492] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:27:52.493] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:27:52.493] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:27:52.493] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:27:52.493] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:27:52.493] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:27:52.615] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:27:52.851] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:27:53.616] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:27:53.617] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:27:53.853] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:27:53.854] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:28:12.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:28:12.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:28:12.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:28:12.788] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:28:13.594] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:28:13.595] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:28:13.595] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:28:13.723] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:28:13.788] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:28:13.788] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:28:14.723] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:28:14.723] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:28:23.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Removed every effect from Rick_sis]
+[20Apr2025 17:28:53.783] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 88a19825-506e-3aed-9b25-41804e02dfa0 timed out
+[20Apr2025 17:28:53.783] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Rick_sis
+[20Apr2025 17:28:53.783] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Rick_sis
+[20Apr2025 17:28:53.783] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 17:28:53.784] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 17:28:53.784] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 17:28:53.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:28:53.896] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:29:08.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rick_sis: Set own game mode to Creative Mode]
+[20Apr2025 17:29:14.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 88a19825-506e-3aed-9b25-41804e02dfa0
+[20Apr2025 17:29:14.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Rick_sis (88a19825-506e-3aed-9b25-41804e02dfa0) successfully connected to voice chat
+[20Apr2025 17:29:14.922] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 17:29:14.922] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 17:29:21.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NeoSergio00: Teleported NeoSergio00 to Rick_sis]
