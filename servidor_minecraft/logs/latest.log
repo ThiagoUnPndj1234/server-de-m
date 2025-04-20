@@ -754,3 +754,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [20Apr2025 12:04:28.289] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
 [20Apr2025 12:04:29.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
 [20Apr2025 12:04:29.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 14:13:32.505] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
+[20Apr2025 14:13:32.510] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
