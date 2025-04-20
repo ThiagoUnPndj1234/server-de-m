@@ -6310,6 +6310,24 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/squid_grapple": {
+    "criteria": {
+      "capsid": "2025-04-20 17:12:05 +0000"
+    },
+    "done": true
+  },
+  "sons_of_sins:lazarus_pit": {
+    "criteria": {
+      "lazarus_pit_0": "2025-04-20 17:19:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-20 17:20:57 +0000"
+    },
+    "done": true
+  },
   "botania:challenge/root": {
     "criteria": {
       "flower": "2025-04-20 17:23:39 +0000"
@@ -6334,18 +6352,6 @@
     },
     "done": true
   },
-  "sons_of_sins:lazarus_pit": {
-    "criteria": {
-      "lazarus_pit_0": "2025-04-20 17:19:24 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/squid_grapple": {
-    "criteria": {
-      "capsid": "2025-04-20 17:12:05 +0000"
-    },
-    "done": true
-  },
   "botania:main/flower_pickup_lexicon": {
     "criteria": {
       "flower": "2025-04-20 17:23:39 +0000"
@@ -6358,15 +6364,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-04-20 17:20:57 +0000"
-    },
-    "done": true
-  },
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2025-04-20 17:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-20 17:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-20 17:34:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-04-20 17:37:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-04-20 17:37:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-04-20 17:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-20 17:40:23 +0000"
     },
     "done": true
   },

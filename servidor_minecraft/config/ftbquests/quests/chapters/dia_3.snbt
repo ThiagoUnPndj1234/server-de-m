@@ -1,0 +1,35 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "dia_3"
+	group: "3F1F878441C6239D"
+	id: "7B8DF0DCEDAB8CEA"
+	order_index: 3
+	quest_links: [ ]
+	quests: [{
+		id: "306EFB99DD3FFCB3"
+		rewards: [
+			{
+				id: "6F57145B570161E2"
+				item: "pendejosretake:pende_coin_mision"
+				type: "item"
+			}
+			{
+				id: "6277DAE3E52435F0"
+				item: "pendejosretake:pende_coin_mision"
+				type: "item"
+			}
+		]
+		tasks: [{
+			advancement: "minecraft:adventure/hero_of_the_village"
+			criterion: ""
+			icon: "artifacts:villager_hat"
+			id: "6C1F197BD14CE332"
+			title: "Salva a una aldea de una raid"
+			type: "advancement"
+		}]
+		x: -0.5d
+		y: -0.5d
+	}]
+	title: "Dia 3"
+}
