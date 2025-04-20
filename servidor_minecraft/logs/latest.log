@@ -768,3 +768,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [20Apr2025 15:27:08.650] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
 [20Apr2025 15:30:36.247] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
 [20Apr2025 15:30:36.253] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
+[20Apr2025 15:33:55.247] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
+[20Apr2025 15:33:55.252] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
