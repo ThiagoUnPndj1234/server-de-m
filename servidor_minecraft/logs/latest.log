@@ -770,3 +770,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'elementalreality:ghelidium_nu
 [20Apr2025 15:30:36.253] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
 [20Apr2025 15:33:55.247] [Server thread/WARN] [tombstone/]: The death event of the player NeoSergio00 was canceled by another mod
 [20Apr2025 15:33:55.252] [Server thread/INFO] [tombstone/]: The player NeoSergio00 has successfully been saved
+[20Apr2025 15:56:01.299] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 549dd063-7a5f-3694-8229-c1cd8a505909 timed out
+[20Apr2025 15:56:01.299] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player NeoSergio00
+[20Apr2025 15:56:01.299] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 15:56:10.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeoSergio00 lost connection: Timed out
+[20Apr2025 15:56:10.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 left the game
+[20Apr2025 15:56:10.204] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NeoSergio00
+[20Apr2025 15:56:10.273] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Apr2025 15:58:50.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NeoSergio00[/127.44.191.242:59891] logged in with entity id 21620 at (1253.7477402686654, -48.0, 314.5)
+[20Apr2025 15:58:50.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 joined the game
+[20Apr2025 15:58:50.388] [Server thread/INFO] [Jade/]: Syncing config to NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909)
+[20Apr2025 15:58:51.217] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NeoSergio00 (18)
+[20Apr2025 15:58:51.218] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NeoSergio00
+[20Apr2025 15:59:02.740] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 15:59:03.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 549dd063-7a5f-3694-8229-c1cd8a505909
+[20Apr2025 15:59:03.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NeoSergio00 (549dd063-7a5f-3694-8229-c1cd8a505909) successfully connected to voice chat
+[20Apr2025 16:00:12.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NeoSergio00 lost connection: Disconnected
+[20Apr2025 16:00:12.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NeoSergio00 left the game
+[20Apr2025 16:00:12.400] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NeoSergio00
